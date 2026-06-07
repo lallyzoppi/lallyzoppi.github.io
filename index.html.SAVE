@@ -9,9 +9,40 @@
 
 <body>
 
+<header class="container">
+  <h1>Lally Zoppi</h1>
+  <p> Projects </p>
+</header>
+
+<main class="container">
+
+  <h2>Projects</h2>
+
+  <div class="grid">
+
+   <a class="card" href="https://lallyzoppi.github.io/americas-cup-cagliari-2026/">
+      <h3>America's Cup Cagliari 2026</h3>
+      <p>Event analysis and project documentation.</p>
+    </a>
+
+    <a class="card" href="projects/project-2/">
+      <h3>Project 2</h3>
+      <p>Short description of the project.</p>
+    </a>
+
+    <a class="card" href="projects/project-3/">
+      <h3>Project 3</h3>
+      <p>Short description of the project.</p>
+    </a>
+
+  </div>
+
+</main>
+
 <footer class="container footer">
   <p>© 2026 Lally Zoppi</p>
 </footer>
+=======
 
 <html lang="it">
 <head>
