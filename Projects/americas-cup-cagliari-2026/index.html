@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>America’s Cup Preliminary Regatta – Sardinia (38th Edition)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Louis Vuitton 38th America’s Cup – Sardinia Analysis</h1>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+The Louis Vuitton 38th America’s Cup Preliminary Regatta took place in Sardinia, in the port city of Cagliari, from 21 to 24 May 2026, marking the start of the “Road to Naples 2027”. The event featured high-performance sailing with AC40 one-design yachts, reaching speeds of over 40 knots, in strong and challenging Maestrale wind conditions. 
+Several major America’s Cup teams participated, including Emirates Team New Zealand, INEOS Britannia, Luna Rossa Prada Pirelli, American Magic, and Alinghi Red Bull Racing. The regatta consisted of eight fleet races followed by a final match race between Emirates Team New Zealand and Luna Rossa, which highlighted the level of competition between the top teams. 
+These crews used the regattas to test boat performance, refine strategies, and gain experience in conditions similar to 
+official America’s Cup races.
+Cagliari also hosted a Race Village with entertainment and activities for fans, 
+making the event both a sporting and public celebration.
+</p>
+
+<h2>Port of Cagliari immersed in the regatta atmosphere </h2>
+<img src="images/IMG_0155.png">
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+Inspired by the America’s Cup regatta conditions, we propose a Sailing Performance Analytics Project Using Simulated Racing 
+Telemetry. The goal is to reproduce typical high-performance sailing scenarios, including strong wind conditions, high-speed 
+foiling, and tactical manoeuvres similar to those experienced in AC40 fleet racing.
+
+
+<h1>America’s Cup Cagliari 2026 Analytics</h1>
+
+In this context, we consider a simulated dataset structured as follows
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Tabella Barca</title>
+
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #dddddd;
+    }
+  </style>
+</head>
+
+<body>
+
+<h3 Analysis-text </h3>
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+The dataset represents a short simulated sailing sequence composed of four
+key racing phases: steady sailing, acceleration, foiling, and stabilization.
+Each row corresponds to a distinct sailing state under varying wind conditions
+and boat dynamics.
+Rather than representing a large-scale observational dataset,
+this simulation is designed as a proof-of-concept to demonstrate
+the full analytics pipeline, from telemetry processing to machine learning prediction.
+</p>
+
+
+<h2>LunaRossa Navigation Data</h2>
+
+<table>
+  <tr>
+    <th>time(a.u.)</th>
+    <th>boat</th>
+    <th>lat</th>
+    <th>lon</th>
+    <th>speed_knots</th>
+    <th>wind_speed</th>
+    <th>heading</th>
+    <th>vmg</th>
+    <th>manoeuvre</th>
+  </tr>
+
+  <tr>
+    <td>0</td>
+    <td>LunaRossa</td>
+    <td>39.100</td>
+    <td>9.120</td>
+    <td>18.2</td>
+    <td>14</td>
+    <td>210</td>
+    <td>16.5</td>
+    <td>straight</td>
+  </tr>
+
+  <tr>
+    <td>1</td>
+    <td>LunaRossa</td>
+    <td>39.101</td>
+    <td>9.121</td>
+    <td>22.5</td>
+    <td>15</td>
+    <td>215</td>
+    <td>19.1</td>
+    <td>acceleration</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>LunaRossa</td>
+    <td>39.103</td>
+    <td>9.125</td>
+    <td>28.0</td>
+    <td>16</td>
+    <td>220</td>
+    <td>24.3</td>
+    <td>foiling</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>LunaRossa</td>
+    <td>39.106</td>
+    <td>9.130</td>
+    <td>31.2</td>
+    <td>17</td>
+    <td>225</td>
+    <td>27.8</td>
+    <td>straight</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
+
+
+The study focuses on boat performance, GPS tracking, wind conditions, and race dynamics.
+</p>
+
+<h2>⚡ Boat Speed Analysis</h2>
+<img src="images/boat_speed.png">
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+Boat speed varies significantly depending on wind strength and tactical decisions during the race.
+The Boat Speed Profile illustrates the evolution of the vessel’s speed over time, measured in knots.
+The plot highlights a clear dynamic response, where speed increases progressively from lower values 
+to higher performance levels. This trend reflects different sailing phases,including acceleration 
+and the transition into more efficient sailing modes modes such as foiling.
+Overall, the profile provides insight into how the boat responds to changes in sailing conditions
+and manoeuvres over the recorded time sequence. 
+</p>
+
+
+<h2>📊 Boat GPS Track</h2>
+<img src="images/gps_track.png">
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+The GPS Track Visualization illustrates the spatial evolution of the boat’s trajectory 
+based on latitude and longitude coordinates.The plot shows a smooth and coherent displacement 
+over a confined geographic area, consistent with short-range sailing manoeuvres. This type of 
+movement is representative of high-performance test sessions and coastal racing environments, 
+such as training or simulation scenarios similar to those used in professional sailing campaigns 
+in Sardinia during high-level racing preparations, including America’s Cup-related activities.
+Overall, the trajectory provides a clear spatial representation of the boat’s movement and complements 
+the speed and manoeuvre analysis.
+</p>
+
+<h2>🌬️ Wind vs Boat Speed</h2>
+<img src="images/wind_vs_speed.png">
+
+<h1>⛵ Regatta Performance Dashboard</h1>
+<h3>Statistical summary of simulation variables</h3>
+
+<!-- ANALYSIS TEXT -->
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+The Wind vs Speed relationship plot illustrates how boat performance varies under different wind conditions.
+The data shows a positive correlation, where increases in wind speed are generally associated with higher boat speeds,
+reflecting efficient power transfer from wind to propulsion. At lower wind speeds, the boat operates in a more
+displacement or transitional mode, while higher wind values correspond to improved performance and
+potential foiling conditions. This behaviour is consistent with high-performance sailing dynamics typically
+observed in advanced racing environments and training scenarios in coastal waters such as Sardinia,
+where America’s Cup-level teams conduct performance analysis and testing.
+</p>
+
+<!-- COLLAPSIBLE TABLE -->
+<details style="margin-top: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  
+  <summary style="cursor: pointer; font-size: 18px; font-weight: bold;">
+    📊 Click to view simulation statistics
+  </summary>
+
+  <!-- TABLE EXPLANATION -->
+  <p style="max-width: 900px; line-height: 1.5; margin-top: 10px;">
+    This table summarizes key statistical descriptors from the simulation dataset.
+    It includes central tendency (mean), variability (std), and distribution percentiles.
+    VMG and speed metrics are particularly important for evaluating sailing efficiency.
+  </p>
+
+  <!-- STAT TABLE -->
+  <table border="1" cellpadding="6" cellspacing="0" style="margin-top: 10px; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th>Variable</th>
+        <th>Count</th>
+        <th>Mean</th>
+        <th>Std</th>
+        <th>Min</th>
+        <th>25%</th>
+        <th>50%</th>
+        <th>75%</th>
+        <th>Max</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>lat</td><td>4</td><td>1.5000</td><td>1.2910</td><td>0.000</td><td>0.7500</td><td>1.5000</td><td>2.2500</td><td>3.000</td>
+      </tr>
+      <tr>
+        <td>lon</td><td>4</td><td>39.1025</td><td>0.0026</td><td>39.100</td><td>39.1008</td><td>39.1020</td><td>39.1038</td><td>39.106</td>
+      </tr>
+      <tr>
+        <td>speed_knots</td><td>4</td><td>9.1240</td><td>0.0045</td><td>9.120</td><td>9.1208</td><td>9.1230</td><td>9.1263</td><td>9.130</td>
+      </tr>
+      <tr>
+        <td>wind_speed</td><td>4</td><td>24.9750</td><td>5.7714</td><td>18.200</td><td>21.425</td><td>25.250</td><td>28.800</td><td>31.200</td>
+      </tr>
+      <tr>
+        <td>heading</td><td>4</td><td>15.5000</td><td>1.2910</td><td>14.000</td><td>14.750</td><td>15.500</td><td>16.250</td><td>17.000</td>
+      </tr>
+      <tr>
+        <td>vmg</td><td>4</td><td>217.5000</td><td>6.4550</td><td>210.000</td><td>213.750</td><td>217.500</td><td>221.250</td><td>225.000</td>
+      </tr>
+      <tr>
+        <td>speed_smooth</td><td>4</td><td>21.9250</td><td>5.0849</td><td>16.500</td><td>18.450</td><td>21.700</td><td>25.175</td><td>27.800</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<h2>Variable Description</h2>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+<strong>lat (latitude)</strong>: This represents a simulated positional index along the north-south axis. It is not a real-world GPS latitude but a normalized or relative coordinate used in the simulation model.</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+<strong>lon (longitude)</strong>: This represents the east-west position. Unlike lat, it remains relatively stable around 39.10, suggesting a constrained or fixed sailing area in the simulation environment.</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+<strong>speed_knots</strong>: The actual boat speed in knots. Values are extremely stable (around 9.12 knots), indicating either steady sailing conditions or a highly smoothed/controlled simulation output.</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+<strong>wind_speed</strong>: Wind intensity in knots. The range (18–31 knots) corresponds to moderate-to-strong wind conditions, typical of real sailing regatta scenarios.</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+<strong>heading</strong>: The boat’s direction in degrees. The low variability suggests a nearly fixed course or optimized routing strategy.</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+<strong>vmg (Velocity Made Good)</strong>: A performance metric indicating effective progress toward the target direction. Although internally consistent, the magnitude suggests it may be a scaled or simulation-specific index rather than a direct nautical unit.</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+<strong>speed_smooth</strong>: A filtered version of speed used to reduce noise in measurements. It is significantly higher than raw speed_knots, suggesting it may incorporate model-based smoothing or alternative computation rather than direct sensor data.</p>
+
+---
+
+<h2>Data Consistency Notes</h2>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+The dataset does not show any abnormal or unrealistic values. Wind speed, heading stability, and velocity trends are all physically plausible for a sailing simulation environment.</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+However, some variables appear to be simulation-scaled rather than strictly nautical:</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+VMG is likely not expressed in standard knots.  
+speed_smooth is not directly comparable to speed_knots.  
+lat behaves like a normalized index rather than a real latitude.
+</p>
+
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+Overall, the dataset is internally consistent and suitable for simulation analysis, but it should not be interpreted as raw real-world nautical telemetry without scaling clarification.</p>
+
+
+<h2>🌬️  The Results of the Preliminary Regatta in Sardinia</h2>
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+Coming back to the Preliminary Regatta in Sardinia: the competition was extremely fast and intense 
+as the boats competed in a series of eight fleet races. 
+The top two teams, Emirates Team New Zealand and Luna Rossa 2 (Principal Team), 
+then concluded the regatta on the final day with a dramatic one-on-one match race to decide the winner.
+</p>
+
+<h2>📋 Race Data Table</h2>
+
+<table style="width:450px; border:1px solid black;">
+    <tr>
+        <th>Team</th>
+        <th>Points</th>
+        <th>Position</th>
+    </tr>
+<tr>
+        <td>Luna Rossa Principal Team</td>
+        <td>63</td>
+        <td>1</td>
+    </tr>
+<tr>
+        <td>Emirates Team New Zealand</td>
+        <td>60</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Luna Rossa Women & Youth</td>
+        <td>59</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>La Roche-Posay Racing Team</td>
+        <td>55</td>
+        <td>4</td>
+    </tr>
+<tr>
+        <td>Emirates Team New Zealand & Youth</td>
+        <td>50</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Tudor Team Alinghi</td>
+        <td>40</td>
+        <td>6</td>
+    </tr>
+   <tr>
+        <td>Athena Pathway Women & Youth Team</td>
+        <td>38</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>GB1</td>
+        <td>27</td>
+        <td>8</td>
+    </tr>
+</table>
+
+<h2>🏁 Conclusion</h2>
+<p style="text-align: justify; max-width: 900px; line-height: 1.6;">
+The Sardinia regatta confirmed the importance of Cagliari as a key 
+training and competition hub for the America’s Cup circuit.
+Strong Maestrale wind conditions provided an ideal environment for high-performance sailing analysis.
+</p>
+
+</body>
+</html>
