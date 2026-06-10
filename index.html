@@ -4,42 +4,44 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lally Zoppi | Portfolio</title>
+  <title>Lally Zoppi | Scientific Portfolio</title>
 
   <style>
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #0b1f3a;
-      color: #eaf2ff;
+      background: #0B1220;
+      color: #E6EDF7;
     }
 
     header {
-      background: linear-gradient(135deg, #123a66, #0b1f3a);
-      color: #ffffff;
-      padding: 70px 20px;
+      background: linear-gradient(135deg, #111B2E, #0B1220);
       text-align: center;
+      padding: 80px 20px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
     }
 
     header h1 {
       margin: 0;
-      font-size: 40px;
+      font-size: 42px;
+      letter-spacing: 1px;
     }
 
     header p {
       margin-top: 10px;
-      opacity: 0.85;
+      color: #A9B4C7;
     }
 
     main {
-      max-width: 900px;
-      margin: 40px auto;
+      max-width: 950px;
+      margin: 50px auto;
       padding: 0 20px;
     }
 
     h2 {
       margin-bottom: 20px;
-      color: #eaf2ff;
+      font-size: 22px;
+      color: #E6EDF7;
     }
 
     .grid {
@@ -49,31 +51,30 @@
     }
 
     .card {
-      background: #132c4d;
-      padding: 24px;
-      border-radius: 12px;
+      background: #111B2E;
+      border-radius: 14px;
+      padding: 22px;
       text-decoration: none;
-      color: #eaf2ff;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: #E6EDF7;
+      border: 1px solid rgba(255,255,255,0.08);
+      transition: transform 0.2s ease, border 0.2s ease;
       display: block;
     }
 
     .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+      transform: translateY(-6px);
+      border: 1px solid #4DA3FF;
     }
 
     .card h3 {
       margin-top: 0;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
       color: #ffffff;
     }
 
     .card p {
       margin: 0;
-      color: #b7c9e6;
+      color: #A9B4C7;
       line-height: 1.6;
       font-size: 14px;
     }
@@ -81,8 +82,14 @@
     footer {
       text-align: center;
       padding: 40px 20px;
-      color: #8aa4c7;
-      font-size: 14px;
+      color: #A9B4C7;
+      font-size: 13px;
+      border-top: 1px solid rgba(255,255,255,0.08);
+      margin-top: 60px;
+    }
+
+    a.card {
+      cursor: pointer;
     }
   </style>
 </head>
@@ -91,7 +98,7 @@
 
   <header>
     <h1>Lally Zoppi</h1>
-    <p>Portfolio — Projects</p>
+    <p>Scientific Portfolio — Data • Meteorology • Ocean Engineering</p>
   </header>
 
   <main>
@@ -101,23 +108,20 @@
     <div class="grid">
 
       <a class="card" href="https://lallyzoppi.github.io/americas-cup-cagliari-2026/" target="_blank">
-        <h3>America's Cup Cagliari 2026</h3>
+        <h3>America’s Cup Cagliari 2026</h3>
         <p>
-          The Louis Vuitton 38th America's Cup Preliminary Regatta took place in Cagliari,
-          Sardinia, from 21 to 24 May 2026, marking the beginning of the Road to Naples 2027.
-          Inspired by AC40 racing conditions, this project explores sailing performance
-          analytics using simulated racing telemetry, including high-speed foiling,
-          strong winds, and tactical manoeuvres.
+          Sailing performance analytics project based on simulated AC40 telemetry.
+          Focus on high-speed foiling, wind conditions, and tactical racing dynamics
+          in professional regatta environments.
         </p>
       </a>
 
       <a class="card" href="https://lallyzoppi.github.io/cyclone-harry-sardinia/" target="_blank">
-        <h3>Cyclone Harry – Extreme Event in Sardinia</h3>
+        <h3>Cyclone Harry – Extreme Event</h3>
         <p>
-          Cyclone Harry was a significant meteorological event affecting Sardinia
-          between 19 and 22 January 2026, characterized by intense winds,
-          extreme precipitation, and severe sea conditions. This project analyzes
-          mean wind speed, maximum gusts, and their spatial distribution across the island.
+          Meteorological analysis of Cyclone Harry over Sardinia (Jan 2026),
+          including wind fields, extreme precipitation, and spatial distribution
+          of atmospheric intensity.
         </p>
       </a>
 
@@ -126,7 +130,7 @@
   </main>
 
   <footer>
-    © 2026 Lally Zoppi — GitHub Pages Portfolio
+    © 2026 Lally Zoppi — Scientific Data Portfolio
   </footer>
 
 </body>
