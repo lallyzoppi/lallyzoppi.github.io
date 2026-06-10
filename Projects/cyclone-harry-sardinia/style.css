@@ -1,0 +1,341 @@
+/* =========================
+   GLOBAL
+========================= */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #081018;
+    font-family: 'Inter', avenir;
+    color: #d6e6f2;
+}
+
+/* =========================
+   HERO
+========================= */
+
+.hero {
+    text-align: center;
+    padding: 70px 40px 40px;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+}
+
+.hero h1 {
+    font-family: 'Orbitron', avenir;
+    font-size: 6rem;
+    color: #00e5ff;
+    margin-bottom: 10px;
+}
+
+*/.hero p {
+    font-size: 1.2rem;
+    color: #cfe9f6;
+}*/
+
+.hero p {
+    max-width: 800px;
+    margin: 20px auto;
+    line-height: 1.5;
+}
+
+.hero-description h1 {
+    font-family: 'Orbitron', avenir;
+    font-size: 4rem;
+    color: #00e5ff;
+}
+
+/* =========================
+   SECTIONS
+========================= */
+
+.section {
+    padding: 40px 8%;
+}
+
+.section h2 {
+    text-align: center;
+    font-family: 'Orbitron', avenir;
+    color: #00e5ff;
+    margin-bottom: 25px;
+}
+
+/* =========================
+   GRID
+========================= */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 40px;
+    margin: 40px 8%;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    gap: 25px;
+}
+
+/* =========================
+   CARD BASE
+========================= */
+.card {
+    background: #111b27;
+    border-radius: 18px;
+
+    padding: 50px;        /* 🔥 molto più spazio interno */
+    min-height: 260px;    /* 🔥 vera “dimensione grande” */
+
+    display: block;
+    text-decoration: none;
+    color: inherit;
+
+    border-left: 6px solid transparent;
+
+    box-shadow: 0 0 25px rgba(0, 229, 255, 0.18);
+
+    transition: all 0.4s ease;
+}
+
+.card h2 {
+    font-size: 3.2rem;
+}
+
+.card p {
+    font-size: 1.8rem;
+}
+
+/*.card { */
+/*    background: #111b27; */
+/*    border-radius: 16px; */
+/*    padding: 20px; */
+/*    display: block; */
+/*    text-decoration: none; */
+/*    color: inherit;*/
+/*
+/*    border-left: 6px solid transparent;*/
+
+/*    box-shadow: 0 0 20px rgba(0, 229, 255, 0.15);*/
+/*    transition: all 0.4s ease;*/
+/*}
+
+/* hover */
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 30px rgba(0, 229, 255, 0.35);
+}
+
+/* =========================
+   COLORI BORDO (SEMPRE VISIBILI)
+========================= */
+
+.card.blue {
+    border-left-color: #00e5ff;
+}
+
+.card.red {
+    border-left-color: #ff4d4d;
+}
+
+.card.green {
+    border-left-color: #00d084;
+}
+
+/* =========================
+   ACTIVE (SOLO GRAFICI)
+========================= */
+
+.card.active {
+    opacity: 1;
+    transform: scale(1.03);
+    box-shadow: 0 0 45px rgba(0, 229, 255, 0.35);
+}
+
+/* evidenziazione più forte per il grafico attivo */
+
+#rainfall-chart.active {
+    box-shadow: 0 0 50px rgba(0, 229, 255, 0.6);
+    border: 2px solid #00e5ff;
+}
+
+#peakflow-chart.active {
+    box-shadow: 0 0 50px rgba(255, 77, 77, 0.6);
+    border: 2px solid #ff4d4d;
+}
+
+#analysis-chart.active {
+    box-shadow: 0 0 50px rgba(0, 208, 132, 0.6);
+    border: 2px solid #00d084;
+}
+
+/*
+#rainfall-chart:target,
+#peakflow-chart:target,
+#analysis-chart:target {
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    width: 90vw;
+    height: 90vh;
+
+    transform: translate(-50%, -50%);
+
+    z-index: 99999;
+
+    background: #111b27;
+    padding: 30px;
+    border-radius: 20px;
+
+    overflow: auto;
+
+    box-shadow: 0 0 100px rgba(0,0,0,0.8);
+
+#rainfall-chart:target {
+    border-left: 6px solid #00e5ff;
+}
+
+#peakflow-chart:target {
+    border-left: 6px solid #ff4d4d;
+}
+
+#analysis-chart:target {
+    border-left: 6px solid #00d084;
+}
+}/*
+
+/* =========================
+   DIMMED (opzionale, SOLO se lo usi nel JS)
+========================= */
+
+.card.dimmed {
+    opacity: 0.25;
+    filter: grayscale(80%) blur(1px);
+    transform: scale(0.97);
+}
+
+/* =========================
+   CONTENUTI
+========================= */
+
+.card h3 {
+    color: #00e5ff;
+    margin-bottom: 10px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* =========================
+   MAP
+========================= */
+
+#map {
+    height: 550px;
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgba(0, 229, 255, 0.25);
+    border: 1px solid rgba(0, 229, 255, 0.15);
+}
+
+/* =========================
+   VIDEO
+========================= */
+
+video {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgba(0, 229, 255, 0.2);
+}
+
+/* =========================
+   CANVAS
+========================= */
+
+canvas {
+    background: #111b27;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+    background: #050b12;
+    color: #7f9db3;
+    font-size: 24px;
+}
+
+/* =========================
+   SMOOTH SCROLL
+========================= */
+
+html {
+    scroll-behavior: smooth;
+}
+/* =========================
+   PDF / TESTO PIÙ LEGGIBILE
+========================= */
+/* =========================
+   TESTO + CARD PER PDF
+========================= */
+
+/* Testo normale */
+p {
+    max-width: 75ch;
+    margin: 20px auto;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Testo dentro le card */
+.card p {
+    max-width: 70ch;
+    margin: 10px auto;
+    line-height: 1.6;
+    text-align: center;
+}
+/* ######################### */
+/* =========================
+   HYDRO DASHBOARD - ENLARGED LAYOUT
+========================= */
+.section {
+    padding: 40px 2%;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+}
+
+.card {
+    width: 80%;
+    max-width: none;
+    margin: 0 auto;  
+    padding: 20px 0;
+}
+
+.card img {
+    width: 80% !important;
+    max-width: 80% !important;
+    height: auto !important;
+    display: block;
+    margin: 0 auto;   /* <-- QUESTO CENTRA LA FIGURA */
+}
+
+img {
+    max-width: 100% !important;
+margin: 0 auto;   /* <-- QUESTO CENTRA LA FIGURA */
+}}
