@@ -44,6 +44,10 @@ body {
     color: #00e5ff;
 }
 
+.hero-description h1,
+.hero-description h2 {
+    color: #00e5ff;
+}
 /* =========================
    SECTIONS
 ========================= */
