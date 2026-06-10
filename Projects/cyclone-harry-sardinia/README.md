@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Cyclone Harry - Sardinia 2026`
 
 Automatic extraction and analysis of the ARPAS
