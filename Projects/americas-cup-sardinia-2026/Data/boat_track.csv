@@ -1,0 +1,5 @@
+time,boat,lat,lon,speed_knots,wind_speed,heading,vmg,manoeuvre
+0,LunaRossa,39.10,9.12,18.2,14,210,16.5,straight
+1,LunaRossa,39.101,9.121,22.5,15,215,19.1,acceleration
+2,LunaRossa,39.103,9.125,28.0,16,220,24.3,foiling
+3,LunaRossa,39.106,9.130,31.2,17,225,27.8,straight

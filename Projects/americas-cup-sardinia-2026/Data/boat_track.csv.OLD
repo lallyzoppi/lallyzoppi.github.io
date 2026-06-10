@@ -1,0 +1,6 @@
+time,boat,lat,lon,speed_knots,wind_speed,heading
+0,LunaRossa,-34.60,18.30,12.1,15,210
+1,LunaRossa,-34.601,18.301,13.2,16,212
+2,LunaRossa,-34.602,18.302,14.0,15,215
+3,LunaRossa,-34.603,18.304,15.1,17,218
+4,LunaRossa,-34.604,18.306,14.8,16,220
