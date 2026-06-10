@@ -1,95 +1,98 @@
 <!DOCTYPE html>
-<html lang="it">
-
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lally Zoppi | Scientific Portfolio</title>
+  <title>Lally Zoppi | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<footer class="container footer">
+  <p>© 2026 Lally Zoppi</p>
+</footer>
+
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lally Zoppi | Portfolio</title>
 
   <style>
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #0B1220;
-      color: #E6EDF7;
+      background: #0b1f3a; /* azzurro scuro */
+      color: #eaf2ff;
     }
 
     header {
-      background: linear-gradient(135deg, #111B2E, #0B1220);
+      background: linear-gradient(135deg, #123a66, #0b1f3a);
+      color: white;
+      padding: 70px 20px;
       text-align: center;
-      padding: 80px 20px;
-      border-bottom: 1px solid rgba(255,255,255,0.08);
     }
 
     header h1 {
       margin: 0;
-      font-size: 42px;
-      letter-spacing: 1px;
+      font-size: 40px;
     }
 
     header p {
       margin-top: 10px;
-      color: #A9B4C7;
+      opacity: 0.85;
     }
 
     main {
-      max-width: 950px;
-      margin: 50px auto;
+      max-width: 900px;
+      margin: 40px auto;
       padding: 0 20px;
     }
 
     h2 {
       margin-bottom: 20px;
-      font-size: 22px;
-      color: #E6EDF7;
+      color: #eaf2ff;
     }
 
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 20px;
     }
 
     .card {
-      background: #111B2E;
-      border-radius: 14px;
-      padding: 22px;
+      background: #132c4d;
+      padding: 20px;
+      border-radius: 12px;
       text-decoration: none;
-      color: #E6EDF7;
+      color: #eaf2ff;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
       border: 1px solid rgba(255,255,255,0.08);
-      transition: transform 0.2s ease, border 0.2s ease;
-      display: block;
     }
 
     .card:hover {
-      transform: translateY(-6px);
-      border: 1px solid #4DA3FF;
+      transform: translateY(-5px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.35);
     }
 
     .card h3 {
       margin-top: 0;
       margin-bottom: 10px;
-      color: #ffffff;
     }
 
     .card p {
       margin: 0;
-      color: #A9B4C7;
-      line-height: 1.6;
+      color: #b7c9e6;
       font-size: 14px;
     }
 
     footer {
       text-align: center;
       padding: 40px 20px;
-      color: #A9B4C7;
-      font-size: 13px;
-      border-top: 1px solid rgba(255,255,255,0.08);
-      margin-top: 60px;
-    }
-
-    a.card {
-      cursor: pointer;
+      color: #8aa4c7;
+      font-size: 14px;
     }
   </style>
 </head>
@@ -98,41 +101,41 @@
 
   <header>
     <h1>Lally Zoppi</h1>
-    <p>Scientific Portfolio — Data • Meteorology • Ocean Engineering</p>
+    <p>Portfolio  — Projects</p>
   </header>
 
   <main>
-
     <h2>Projects</h2>
 
     <div class="grid">
 
-      <a class="card" href="https://lallyzoppi.github.io/americas-cup-cagliari-2026/" target="_blank">
-        <h3>America’s Cup Cagliari 2026</h3>
-        <p>
-          Sailing performance analytics project based on simulated AC40 telemetry.
-          Focus on high-speed foiling, wind conditions, and tactical racing dynamics
-          in professional regatta environments.
-        </p>
+      <a class="card" href="https://lallyzoppi.github.io/americas-cup-cagliari-2026/">
+        <h3>Americas Cup Cagliari 2026</h3>
+        <p>The Louis Vuitton 38th America’s Cup Preliminary Regatta took place in Sardinia, in the port city of Cagliari, 
+        from 21 to 24 May 2026, marking the start of the “Road to Naples 2027”.
+        Inspired by the America’s Cup regatta conditions, we propose a Sailing 
+        Performance Analytics Project Using Simulated Racing Telemetry. 
+        The goal is to reproduce typical high-performance sailing scenarios, 
+        including strong wind conditions, high-speed foiling, 
+        and tactical manoeuvres similar to those experienced in AC40 fleet racing. </p>
       </a>
 
-      <a class="card" href="https://lallyzoppi.github.io/cyclone-harry-sardinia/" target="_blank">
-        <h3>Cyclone Harry – Extreme Event</h3>
-        <p>
-          Meteorological analysis of Cyclone Harry over Sardinia (Jan 2026),
-          including wind fields, extreme precipitation, and spatial distribution
-          of atmospheric intensity.
-        </p>
+      <a class="card" href="https://lallyzoppi.github.io/cyclone-harry-sardinia/">
+        <h3>Cyclone Harry Extreme Event in Sardinia </h3>
+        <p>Cyclone Harry represented a significant meteorological event affecting Sardinia 
+         between 19 and 22 January 2026, characterized by the combined occurrence of intense winds, 
+         extreme precipitation, and severe marine conditions. 
+         To gain a more comprehensive understanding of the wind conditions associated with Cyclone Harry, 
+         it is useful to examine both the mean wind speed and maximum wind gust distributions 
+         across Sardinia, as well as their spatial relationship.</p>
       </a>
 
     </div>
-
   </main>
 
   <footer>
-    © 2026 Lally Zoppi — Scientific Data Portfolio
+    © 2026 Lally Zoppi — GitHub Pages Portfolio
   </footer>
 
 </body>
-
 </html>
