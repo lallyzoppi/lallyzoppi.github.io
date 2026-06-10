@@ -1,3 +1,4 @@
+/* RESET */
 * {
   margin: 0;
   padding: 0;
@@ -7,8 +8,8 @@
 /* BASE */
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #0B1220;   /* blu notte profondo */
-  color: #E6EDF7;
+  background-color: #0b1220;
+  color: #e5e7eb;
   line-height: 1.6;
 }
 
@@ -29,18 +30,16 @@ header {
 h1 {
   font-size: 3rem;
   margin-bottom: 0.5rem;
-  color: #ffffff;
 }
 
 p {
-  color: #A9B4C7;
+  color: #9ca3af;
 }
 
 /* SECTION TITLE */
 h2 {
   margin-bottom: 1.5rem;
   font-size: 2rem;
-  color: #E6EDF7;
 }
 
 /* GRID */
@@ -53,24 +52,23 @@ h2 {
 /* CARD */
 .card {
   display: block;
-  background-color: #111B2E;   /* blu tecnico */
+  background-color: #111827;
   padding: 1.5rem;
   border-radius: 12px;
   text-decoration: none;
-  color: #E6EDF7;
-  transition: 0.25s ease;
-  border: 1px solid rgba(255,255,255,0.08);
+  color: white;
+  transition: 0.2s ease;
+  border: 1px solid #1f2937;
 }
 
 .card:hover {
-  transform: translateY(-6px);
-  border: 1px solid #4DA3FF;  /* accento blu scientifico */
-  background-color: #16233A;
+  transform: translateY(-4px);
+  background-color: #1f2937;
 }
 
 /* FOOTER */
 .footer {
   text-align: center;
   margin-top: 4rem;
-  color: #A9B4C7;
+  color: #6b7280;
 }
