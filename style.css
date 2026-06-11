@@ -32,8 +32,10 @@ h1 {
   margin-bottom: 0.5rem;
 }
 
-p {
+header p {
   color: #9ca3af;
+  font-size: 1.3rem;
+  text-align: center;
 }
 
 /* SECTION TITLE */
