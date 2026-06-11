@@ -92,6 +92,17 @@ h2 {
   text-align: justify;
 }
 
+.card h3 {
+  font-size: 1.7rem;
+  margin-bottom: 0.8rem;
+}
+
+.card p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #d1d5db;
+}
+
 /* FOOTER */
 .footer {
   text-align: center;
