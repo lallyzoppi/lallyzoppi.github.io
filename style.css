@@ -61,12 +61,12 @@ h2 {
   color: white;
   transition: 0.2s ease;
   border: 1px solid #1f2937;
-}
+}*/
 
 .card:hover {
   transform: translateY(-4px);
   background-color: #1f2937;
-}/*
+}
 
 .card {
   display: block;
