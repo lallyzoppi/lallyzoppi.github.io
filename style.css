@@ -81,17 +81,13 @@ h2 {
   margin-bottom: 1.5rem;
 }
 
-main h2 {
-  text-align: center !important;
-}
-
 .card h3 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   font-weight: 600;
   margin-bottom: 0.8rem;
 }
 
 .card p {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   line-height: 1.7;
 }
