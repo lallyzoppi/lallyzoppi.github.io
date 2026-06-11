@@ -52,21 +52,15 @@ h2 {
 }
 
 /* CARD */
-
 .card {
   display: block;
   background-color: #111827;
-  padding: 2.5rem;
+  padding: 1.5rem;
   border-radius: 12px;
   text-decoration: none;
   color: white;
   transition: 0.2s ease;
-  border: 2px solid #3b82f6;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.4);  
-  min-height: 320px;   /* 👈 chiave */
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  border: 1px solid #1f2937;
 }
 
 .card:hover {
@@ -75,20 +69,11 @@ h2 {
 }
 
 .card h3 {
-  font-size: 1.7rem;
-  margin-bottom: 0.8rem;
+  text-align: center;
 }
 
 .card p {
-  font-size: 1.05rem;
   text-align: justify;
-  line-height: 1.7;
-  color: #d1d5db;
-}
-
-.card p {
-  font-size: 50px !important;
-  color: red !important;
 }
 
 /* FOOTER */
