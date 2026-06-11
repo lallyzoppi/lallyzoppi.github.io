@@ -71,14 +71,14 @@ h2 {
 .card {
   display: block;
   background-color: #111827;
-  padding: 2rem;
+  padding: 2.5rem;
   border-radius: 12px;
   text-decoration: none;
   color: white;
   transition: 0.2s ease;
-  border: 1px solid #1f2937;
-
-  min-height: 280px;   /* 👈 chiave */
+  border: 2px solid #3b82f6;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);  
+  min-height: 320px;   /* 👈 chiave */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
