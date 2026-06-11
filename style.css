@@ -52,21 +52,6 @@ h2 {
 }
 
 /* CARD */
-/*.card {
-  display: block;
-  background-color: #111827;
-  padding: 1.5rem;
-  border-radius: 12px;
-  text-decoration: none;
-  color: white;
-  transition: 0.2s ease;
-  border: 1px solid #1f2937;
-}*/
-
-.card:hover {
-  transform: translateY(-4px);
-  background-color: #1f2937;
-}
 
 .card {
   display: block;
@@ -84,12 +69,9 @@ h2 {
   justify-content: space-between;
 }
 
-.card h3 {
-  text-align: center;
-}
-
-.card p {
-  text-align: justify;
+.card:hover {
+  transform: translateY(-4px);
+  background-color: #1f2937;
 }
 
 .card h3 {
@@ -99,6 +81,7 @@ h2 {
 
 .card p {
   font-size: 1.05rem;
+  text-align: justify;
   line-height: 1.7;
   color: #d1d5db;
 }
