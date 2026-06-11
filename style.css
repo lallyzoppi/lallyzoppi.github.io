@@ -40,8 +40,9 @@ header p {
 
 /* SECTION TITLE */
 h2 {
-  margin-bottom: 2.5rem;
-  font-size: 2rem;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 /* GRID */
