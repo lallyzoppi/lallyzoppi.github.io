@@ -68,6 +68,14 @@ h2 {
   background-color: #1f2937;
 }
 
+.card h3 {
+  text-align: center;
+}
+
+.card p {
+  text-align: justify;
+}
+
 /* FOOTER */
 .footer {
   text-align: center;
