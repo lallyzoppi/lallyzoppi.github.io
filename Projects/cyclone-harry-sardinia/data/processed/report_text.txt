@@ -1,0 +1,2164 @@
+
+
+===== PAGE 1 =====
+
+
+AGENTZIA REGIONALE PRO S’AMPARU DE S’AMBIENTE DE SARDIGNA
+AGENZIA REGIONALE PER LA PROTEZIONE DELL’AMBIENTE DELLA SARDEGNA
+ARPAS
+Dipartimento Meteoclimatico
+Dipartimento Geologico, Idrogeologico e Idrografico
+ANALISI METEOROLOGICA E IDROLOGICA POST-EVENTO
+18-21 GENNAIO 2026
+Febbraio 2026
+
+
+===== PAGE 2 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Sommario
+INTRODUZIONE 3
+1. SITUAZIONE SINOTTICA 4
+2. SITUAZIONE A SCALA REGIONALE E DESCRIZIONE DEI FENOMENI 8
+2.1. PRECIPITAZIONI 8
+2.2. VENTO 10
+2.3. MOTO ONDOSO 14
+2.4. MAREA E LIVELLI IDROMETRICI 15
+3. CONFRONTO CON L’EVENTO STORICO DELL’OTTOBRE 1951 18
+4. ANALISI IDROLOGICA 21
+4.1. IL BACINO DEL RIU CIXERRI 22
+4.1.1. ANALISI PLUVIOMETRICA 22
+4.1.2. ANALISI IDROMETRICA 23
+4.2. IL BACINO DEL RIU MURMUREI 25
+4.2.1. ANALISI PLUVIOMETRICA 25
+4.2.2. ANALISI IDROMETRICA 26
+4.3. IL BACINO DEL FIUME TIRSO A RIFORNITORE TIRSO 27
+4.4. ANALISI PLUVIOMETRICA 27
+4.4.1. ANALISI IDROMETRICA 28
+4.5. IL BACINO DEL PADROGIANO 29
+4.5.1. ANALISI PLUVIOMETRICA 29
+4.5.2. ANALISI IDROMETRICA 30
+4.6. IL BACINO DEL POSADA 32
+4.6.1. ANALISI PLUVIOMETRICA 32
+4.6.2. ANALISI IDROMETRICA 33
+4.6.3. SOPRALLUOGO DEL 19, 20 E 21 GENNAIO 2026 39
+4.7. IL BACINO DEL CEDRINO 43
+4.7.1. ANALISI PLUVIOMETRICA 43
+4.7.2. ANALISI IDROMETRICA 44
+4.7.3. SOPRALLUOGO DEL 21 E 22 GENNAIO 2026 54
+4.8. IL BACINO DEL PRAMAERA 57
+4.8.1. ANALISI PLUVIOMETRICA 57
+4.8.2. ANALISI IDROMETRICA 58
+4.8.3. SOPRALLUOGO DEL 22 GENNAIO 2026 59
+4.9. IL BACINO DEL QUIRRA 61
+4.9.1. ANALISI PLUVIOMETRICA 61
+4.9.2. ANALISI IDROMETRICA 62
+4.10. IL BACINO DEL FLUMENDOSA 64
+4.10.1. ANALISI PLUVIOMETRICA 65
+4.10.2. ANALISI IDROMETRICA 66
+4.10.3. SOPRALLUOGO DEL 19, 20 E 21 GENNAIO 2026 77
+4.10.4. CONFRONTO EVENTO 14-19 OTTOBRE 1951 90
+4.11. IL BACINO DEL RIU PICOCCA 91
+4.11.1. ANALISI PLUVIOMETRICA 91
+4.11.2. ANALISI IDROMETRICA 92
+5. CONCLUSIONI 93
+A cura di
+R. Bussa, M. Cicoria, M. Fiori, E. Perra, A. Ruju, G. Tocco, P.L. Trudu, D. Caracciolo, A.M.S. Delitala
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 2/95
+
+
+===== PAGE 3 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+INTRODUZIONE
+Tra la serata di domenica 18 e mercoledì 21 gennaio la Sardegna ha subito gli effetti del cosiddetto Ciclone
+Harry, una profonda area di bassa pressione che ha generato precipitazioni diffuse e persistenti (soprattutto
+sui settori orientali) accompagnate da venti tempestosi e forti mareggiate lungo le coste esposte. Le criticità
+sul territorio sono state numerose: frane, smottamenti, piene ed esondazioni dei corsi d’acqua, oltre ad
+erosione costiera e allagamenti dovuti alle intense mareggiate e allo storm surge, con danni estesi alle
+infrastrutture e attività economiche.
+Le precipitazioni avvenute durante l’evento hanno determinato il superamento delle soglie idrometriche di
+allerta in varie sezioni idrometriche e per alcune è stato superato anche il massimo livello idrometrico
+storicamente registrato da quando sono in attività le stazioni in telemisura.
+Il presente rapporto si propone di caratterizzare l’evento dal punto di vista meteorologico e idrologico e
+metterlo in relazione con episodi analoghi del passato.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 3/95
+
+
+===== PAGE 4 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+1. SITUAZIONE SINOTTICA
+Nella giornata di sabato 17 gennaio un’area depressionaria sulla Penisola Iberica ha iniziato la sua fase di
+approfondimento tra la Spagna e il Nord Africa (Figura 1). Il servizio meteorologico spagnolo AEMET ha
+associato alla perturbazione il nome Harry, rientrando nei parametri del progetto Storm Naming di
+EUMETNET, al quale per l’Italia partecipa il Servizio Meteorologico dell’Aeronautica Militare.
+Domenica 18 gennaio il minimo di bassa pressione situato in prossimità dello Stretto di Gibilterra era ancora
+poco profondo (1008 hPa), tuttavia il gradiente barico al suolo nella direttrice sud-ovest/nord-est risultava
+già marcato, per la presenza un robusto campo anticiclonico sull’Europa Orientale, con massimi fino a 1046
+hPa (Figura 2).
+Col passare delle ore la circolazione si è spostata verso sud, raggiungendo il cuore dell’Algeria, e
+contemporaneamente avanzava lentamente verso levante, rallentata dal succitato anticiclone sull’Europa
+Orientale. In tale scenario il flusso di correnti sud-orientali verso la Sardegna si è progressivamente
+intensificato, e con esso anche le precipitazioni, prevalentemente di tipo avvettivo sui settori orientali
+dell’Isola.
+Nella giornata di lunedì 19 gennaio il centro di bassa pressione si è posizionato tra la Libia e la Tunisia;
+nelle ore centrali il minimo raggiungeva i 1002 hPa, ma il dato più rilevante è stato l’elevato gradiente barico
+(sud-ovest/nord-est) che si è instaurato tra il Canale di Sardegna e il Medio-Basso Tirreno (Figura 3).
+Tra il minimo depressionario sulla Tunisia e i massimi dell’anticiclone di blocco sull’Ucraina, a circa 2000
+km di distanza, la differenza di pressione raggiungeva circa 40 hPa, valore molto elevato che ha
+determinato l’intensa e persistente ventilazione che ha interessato la Sardegna fino alle prime ore di
+mercoledì 21 gennaio.
+Figura 1: Altezza di geopotenziale a 500 hPa (gpdam) del 18/01/2026 alle 00:00 UTC (CNR-ISAC
+Bologna).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 4/95
+
+
+===== PAGE 5 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+In questo lasso temporale, fino alla giornata di martedì 20 gennaio, si è assistito alla fase più acuta
+dell’ondata di maltempo, con precipitazioni diffuse sui settori orientali e meridionali dell’Isola, anche a
+carattere di rovescio o temporale e con cumulati molto elevati soprattutto tra Ogliastra e Baronie.
+I venti si sono intensificati con raffiche tempestose prossime a 100 km/h in pianura e superiori ai 130 km/h
+in montagna, complice anche la formazione di un minimo di bassa pressione secondario sullo stretto di
+Sicilia, in moto retrogrado verso il Canale di Sardegna e le Baleari (Figura 4).
+Il forte gradiente barico su un’area estesa ha innescato inoltre una ventilazione sciroccale intensa, su un
+ampio fetch dal Mar Libico verso nord-ovest, generando una mareggiata eccezionale da sud-est dalle
+caratteristiche particolari e impattanti. Sulle coste meridionali e orientali della Sardegna, infatti, si è
+osservata la concomitanza di mare grosso e formato con periodo prossimo a 12 secondi risultante dalla
+convergenza delle mareggiate generate nel Tirreno e nei Canali di Sicilia e Sardegna, unito ad uno storm
+surge legato ai bassi valori di pressione e ai forti venti. Nel corso del 20 gennaio il centro di bassa pressione
+si è spostato lentamente verso est raggiungendo il mare aperto a sud della Sicilia. Un sistema convettivo
+alla mesoscala, sviluppatosi lunedì 19 a nord della Tunisia e accompagnato da intensa attività elettrica, ha
+proseguito verso il Mar Libico senza interessare la Sardegna, che invece ha continuato a essere colpita da
+precipitazioni stratiformi persistenti.
+Mercoledì 21 gennaio il sistema depressionario si è spostato verso il Mar Ionio, allontanandosi
+ulteriormente dalla Sardegna e favorendo l’esaurimento delle precipitazioni. La residua ventilazione nord-
+orientale a sud-est dell’Isola si è attenuata nel corso della giornata, così come il moto ondoso.
+Figura 2. Pressione al livello del mare (hPa) del 18/01/2026 alle 00:00 UTC (CNR-ISAC Bologna).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 5/95
+
+
+===== PAGE 6 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 3. Analisi della pressione al suolo (hPa) e fronti (UK Met Office).
+Le analisi climatologiche disponibili indicano che il Ciclone Harry rientra in uno scenario meteorologico che,
+nel contesto mediterraneo attuale, tende a generare impatti più severi rispetto al passato.
+Lo studio pubblicato dal gruppo ClimaMeter1 mostra che eventi con configurazioni simili al ciclone Harry
+presentano oggi venti più intensi di circa 4-8 km/h (circa +15%) rispetto al passato, un segnale attribuito
+principalmente al riscaldamento climatico antropico. Questa intensificazione favorisce condizioni più
+favorevoli a mareggiate, trasporto di umidità e intense precipitazioni, aumentando l’esposizione delle coste
+a impatti più marcati durante cicloni mediterranei invernali.
+1 https://www.climameter.org/20260120-mediterranean-cyclone-harry
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 6/95
+
+
+===== PAGE 7 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 4. Airmass RGB - MSG - 0 degree - del 19/01/2026 alle 18:00 UTC (EUMETSAT).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 7/95
+
+
+===== PAGE 8 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+2. SITUAZIONE A SCALA REGIONALE E DESCRIZIONE DEI FENOMENI
+2.1. Precipitazioni
+Dal punto di vista precipitativo l’evento in analisi è stato caratterizzato da precipitazioni persistenti e di lunga
+durata che hanno insistito particolarmente sui settori orientali dell’Isola. Dal giorno 18 al 21 gennaio la
+Sardegna ha ricevuto precipitazioni diffuse su tutto il territorio, a carattere prevalentemente stratiforme con
+numerosi rovesci e isolati temporali non forti. La convezione più intensa era infatti bloccata per la maggior
+parte del tempo sulla Tunisia. Le reti pluviometriche hanno comunque registrato localmente cumulate orarie
+superiori a 30 mm/h sui settori orientali: 35.0 mm/h a Genna Silana (Urzulei, NU) il giorno 19 intorno alle
+22:00 UTC. Per il resto, le cumulate orarie sono state generalmente inferiori ai 20 mm.
+Come descritto nella sezione 1, l’evento meteorologico è iniziato il giorno 18 quando precipitazioni isolate
+anche di natura orografica, alimentate da un flusso umido orientale nei bassi strati, hanno iniziato a
+interessare la Sardegna a partire dai settori orientali. In questa fase le precipitazioni hanno assunto
+carattere stratiforme e di locale rovescio o temporale, come si evince dall’immagine radar del massimo di
+riflettività orizzontale delle ore 12:00 UTC (Figura 5a). Si nota per l’appunto un modesto sviluppo verticale
+delle precipitazioni (sezioni a dx e in alto nell’immagine) con locali massimi di riflettività anche superiori a
+40 dBZ. Il radiosondaggio di Decimomannu lanciato alla stessa ora (Figura 5b) mostra infatti energia
+disponibile per la convezione confinata nella medio-bassa atmosfera con uno strato abbastanza umido
+dalla superficie a 850 hPa, compatibile con convezione di basso livello.
+(a) (b)
+Figura 5. Massimo di riflettività verticale (dBZ) (a) e Radiosondaggio di Decimomannu (b) del
+18/01/2026 alle 12:00 UTC (rawinsonde.com).
+Tra la notte del 18 e la prima mattina del 19, in concomitanza del posizionamento del minimo barico sul
+Canale di Sicilia, si è osservata della convezione stazionaria sulla Tunisia che ha prodotto un esteso
+sistema nuvoloso stirato in direzione del Canale di Sardegna (Figura 6). L’Isola si è trovata pertanto
+interessata dalla parte prevalentemente stratiforme associata all’esteso sistema convettivo il quale è
+rimasto stazionario per il resto della giornata del 19. Questa situazione ha determinato precipitazioni
+persistenti specie sui settori orientali dell’Isola che nel corso della giornata sono aumentate
+progressivamente di intensità e diffusione (Figura 7a). I profili atmosferici osservati alle 12:00 UTC del 19
+e alle 00:00 UTC del 20 mostrano infatti sostanziale assenza di energia disponibile per la convezione e
+condizioni sature tra 850 hPa e 700 hPa, mentre uno strato più secco ha nel frattempo fatto il suo ingresso
+nei bassi strati, a quote bariche inferiori a 850 hPa. In Figura 7b si mostra per concisione il radiosondaggio
+del 20 alle 00:00 UTC, molto simile a quello osservato 12 ore prima, ancora a confermare la persistenza
+delle caratteristiche atmosferiche nelle diverse fasi dell’evento.
+Dalla nottata e verso il giorno successivo, 20 gennaio, in corrispondenza della rotazione dei flussi da est
+nei bassi strati, il sistema precipitante di cui sopra si è progressivamente confinato tra Canale e Mar di
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 8/95
+
+
+===== PAGE 9 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Sardegna. Ciò ha permesso ulteriori precipitazioni - seppur di intensità minore e ormai in prevalenza
+orografiche - sui settori orientali e un’attenuazione dei fenomeni sui settori meridionali, meno esposti ai
+flussi da levante (Figura 8a). Nel contempo il flusso orientale nei bassi strati si era leggermente intensificato
+e si osservava l’ingresso di aria più secca in quota (Figura 8b). Dalla serata del 20, l’ingresso di correnti
+più deboli e secche da nord-est ha determinato una decisa attenuazione dei fenomeni sull’Isola, i quali
+sono risultati più sporadici e ancora meno intensi, sino al completo esaurimento nella tarda mattinata del
+21.
+(a) (b) (c)
+Figura 6. Sequenza MSG Sandwich VIS/IR del 19/01/2026 alle 03:00 (a), 06:00 (b) e 09:00 UTC (c)
+(view.eumetsat.int).
+(a) (b)
+Figura 7. Massimo di riflettività verticale (dBZ) del 19/01/2026 alle 18:00 UTC (a) e Radiosondaggio
+di Decimomannu (b) del 20/01/2026 alle 00:00 UTC (rawinsonde.com).
+In Figura 9 si riportano le mappe dei cumulati di pioggia e il relativo rapporto con la media climatica dal 18
+al 21 gennaio. Si nota l’impronta dei flussi orientali dominanti durante l’evento, con precipitazioni associate
+che hanno cumulato al suolo valori generalmente superiori a 100 mm e localmente superiori a 400 mm,
+con massimi locali in Ogliastra oltre i 500 mm. In particolare, 557.8 mm a Genna Tuvara (Gairo, OG), 512.3
+mm a Villagrande Strisaili (OG) e 511.0 mm a Gairo Taquisara (OG). I cumulati descritti risultano superiori
+alla media su tutti i settori orientali e meridionali dell’Isola, con valori del rapporto diffusamente superiori a
+2, localmente sino a 5 in Ogliastra.
+L’evento precipitativo descritto si inserisce in un gennaio particolarmente piovoso in Sardegna in cui la
+mediana delle precipitazioni a livello regionale è pari a tre volte la mediana climatologica di riferimento
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 9/95
+
+
+===== PAGE 10 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+1981-2010. Dall’analisi preliminare basata sui dati pluviometrici di gennaio dal 1961 a oggi risulta che
+gennaio 2026 è stato il più piovoso in assoluto.
+(a) (b)
+Figura 8. Massimo di riflettività verticale (dBZ) (a) e Radiosondaggio di Decimomannu (b) del
+20/01/2026 alle 12:00 UTC (rawinsonde.com).
+Figura 9. Precipitazioni totali registrate dalle reti gestite dal Dipartimento Meteoclimatico
+dell’ARPAS dal 18 al 21 gennaio e rapporto con la media climatica 1981-2010.
+2.2. Vento
+L’evento precipitativo è stato accompagnato anche da intensa ventilazione sud-orientale sulla Sardegna
+con massimi diffusi di vento medio di intensità forte (>10.8 m/s) e raffiche sino a tempesta (>24.5 m/s) al
+livello del mare o a quote di pianura. In Tabella 1 vengono mostrati sinteticamente i valori massimi di vento
+medio e raffiche registrati da stazioni selezionate appartenenti alle reti ARPAS dal 18 al 21 gennaio.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 10/95
+
+
+===== PAGE 11 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+In Figura 10 si riportano i massimi di vento medio (barre blu) e raffiche (barre arancioni) dal 18 al 21 gennaio
+sulle stazioni gestite dal Dipartimento Meteoclimatico dell’ARPAS. Per concisione si mostrano solo i dati
+delle stazioni per cui sono disponibili sia i massimi di vento medio che le raffiche. Come anticipato, gran
+parte delle stazioni hanno misurato venti di intensità almeno forte con valori di burrasca sui rilievi. Le raffiche
+registrate dalle reti anemometriche sono state molto intense, con valori che, sui rilievi del Sulcis e nei pressi
+dei comuni montani del Gennargentu, hanno superato i 35 m/s. La località più ventosa è stata Iglesias San
+Michele (loc. Punta San Michele. 905 m s.l.m.) con massimo vento medio di 24.6 m/s (89 km/h) e raffica di
+38.3 m/s (138 km/h). A quote di pianura i massimi di entrambe le grandezze sono stati osservati a Bosa
+(loc. Monte Ferru. 162 m s.l.m.), con 15.5 m/s (56 km/h) e 26.2 m/s (94 km/h) rispettivamente; seguono
+Stintino (68 m s.l.m.) con 15.3 m/s e 21.5 m/s, Santa Teresa Gallura (102 m s.l.m.) con 14.8 m/s e 22.8
+m/s e Cagliari (loc. Molentargius. 0 m s.l.m.) con 14.8 m/s e 23.9 m/s. I picchi di ventilazione citati sono
+stati osservati tra le prime ore e la prima mattina del giorno 20 in corrispondenza dell’aumento di
+ventilazione sinottica descritto nella sezione 1.
+Vento medio Raff ica
+Stazione [m/s] [km/h] [m/s] [km/h]
+San Teodoro RU 14.6 52 21.6 78
+Cagliari Molentargius 14.8 53 23.9 86
+Santa Teresa Di Gallura RU 14.8 53 22.8 82
+Narcao Monte Rosas 14.9 53 28.4 102
+Arbus Ingurtosu 15.3 55 20.8 75
+Luras RU 15.3 55 24.2 87
+Stintino RU 15.3 55 21.5 77
+Bosa RU 15.5 56 26.2 94
+Pattada RU 15.8 57 25.1 90
+Sadali RU 15.9 57 24.0 86
+Fonni RU 16.2 58 36.6 132
+Perdasdefogu RU 16.4 59 28.1 101
+Macomer RU 16.9 61 26.9 97
+Bitti RU 17.0 61 28.9 104
+Masainas RU 17.2 62 28.6 103
+Meana Sardo RU 17.6 63 28.3 102
+Domus De Maria RU 18.2 65 32.6 117
+Seui RU 18.3 66 35.6 128
+Orgosolo Monte Novo 19.2 69 29.0 104
+Santu Lussurgiu Badde Urbara 20.2 73 27.6 99
+Tempio Limbara 21.8 78 34.4 124
+Desulo Perdu Abes 22.6 81 35.9 129
+Santadi Punta Sebera 24.5 88 37.2 134
+Iglesias San Michele 24.6 89 38.3 138
+Tabella 1. Vento medio e raffiche, valori massimi registrati da stazioni selezionate appartenenti alle
+reti ARPAS dal 18 al 21 gennaio.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 11/95
+
+
+===== PAGE 12 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Raffiche Vento medio
+IGLESIAS SAN MICHELE
+SANTADI PUNTA SEBERA
+DESULO PERDU ABES
+TEMPIO LIMBARA
+SANTU LUSSURGIU BADDE URBARA
+ORGOSOLO MONTE NOVO
+SEUI RU
+DOMUS DE MARIA RU
+MEANA SARDO RU
+MASAINAS RU
+BITTI RU
+MACOMER RU
+PERDASDEFOGU RU
+FONNI RU
+SADALI RU
+PATTADA RU
+BOSA RU
+STINTINO RU
+LURAS RU
+ARBUS INGURTOSU
+NARCAO MONTE ROSAS
+SANTA TERESA DI GALLURA RU
+CAGLIARI MOLENTARGIUS
+SAN TEODORO RU
+LULA RF
+MARACALAGONIS RU
+AGLIENTU RU
+OSCHIRI RU
+BONO MONTE RASU
+SIURGUS DONIGALA RU
+SCANO DI MONTIFERRO RU
+NURALLAO RU
+URZULEI RU
+SARDARA RU
+ESTERZILI M. SANTA VITTORIA
+VILLA SAN PIETRO RU
+SINNAI SERPEDDI'
+PUTIFIGARI RU
+VILLASALTO RU
+CASTIADAS MINNI MINNI
+ARZACHENA RU
+IGLESIAS RU
+BENETUTTI RU
+VALLEDORIA RU
+SERRENTI RU
+SORSO RU
+BONORVA RU
+ALA' DEI SARDI RU
+ILLORAI RU
+OZIERI RU
+GENONI GIARA
+URAS RU
+OROSEI RU
+CAGLIARI PIRRI
+ARITZO RU
+VILLAGRANDE STRISAILI RU
+ORANI RU
+SASSARI RU
+GIAVE RU
+SASSARI CAMPANEDDA
+OLMEDO RU
+SINISCOLA RU
+MILIS RU
+JERZU RU
+GUASILA IPPODROMO
+CABRAS RU
+BONNANARO RU
+NUORO RU
+GHILARZA RU
+OSILO RF
+OROSEI RF
+SASSARI PRATO COMUNALE
+SILIQUA RU
+OTTANA RU
+TORTOLI' RU
+GAVOI RU
+VILLACIDRO RU
+OSINI C.RA MASONEDILI
+MONTI SU CANALE
+ATZARA RU
+ALGHERO RU
+0 5 10 15 20 25 30 35 40 45
+Figura 10. Massimi di vento medio (barre blu) e raffiche (barre arancioni) dal 18/01/2026 al 21/01/2026
+sulle stazioni gestite dal Dipartimento Meteoclimatico dell’ARPAS. I massimi di vento medio sono
+calcolati su 10 minuti per tutte le stazioni; i massimi di raffica sono calcolati su 10’ per le stazioni
+RU. su 60’ per le altre stazioni (RF).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 12/95
+
+
+===== PAGE 13 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 11. Percentuali di occorrenza di vento medio e raffiche per classi di intensità in base alla
+Scala Beaufort: forte (10.8 m/s - 17.2 m/s), burrasca (17.1 m/s - 24.4 m/s), tempesta (24.4 m/s - 28.4
+m/s) e uragano (>32.7 m/s); u è la velocità scalare del vento.
+Per riassumere i valori di vento misurati durante l’intero evento è utile fornire le percentuali di occorrenza
+di vento medio e raffiche per classi di intensità in base alla Scala Beaufort (Figura 11). Le intensità di vento
+medio sulle stazioni selezionate sono state in maggioranza forti (57%), 10% di occorrenze di burrasca e
+circa il 2% di tempesta. Per le raffiche si osservano valori principalmente di burrasca (54%), con anche
+buone occorrenze di tempesta (22%) e intensità di uragano (7%).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 13/95
+
+
+===== PAGE 14 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+2.3. Moto ondoso
+A partire dalla mattina del 19, l’intensa ed estesa ventilazione da est sud-est associata al ciclone
+mediterraneo ha generato una forte mareggiata nel Canale di Sardegna e nel Tirreno Occidentale. Il moto
+ondoso è cresciuto rapidamente durante la giornata del 19 per poi stabilizzarsi nella giornata del 20 durante
+la quale sono stati osservati i picchi della tempesta. Durante queste due giornate il vento ha subito una
+progressiva rotazione verso nord disponendosi dai quadranti orientali, con la conseguente intensificazione
+del moto ondoso nel bacino del Tirreno. Con l’attenuarsi della forzante del vento avvenuta nella giornata
+del 21, il contributo energetico della mareggiata è calato soprattutto in termini di altezza d’onda, mentre il
+periodo medio si è mantenuto stabile.
+Figura 12. Serie temporale dei parametri di moto ondoso registrati dalla boa di Cagliari della rete
+ondametrica nazionale RON (ISPRA), dove H è l’altezza significativa d’onda e T il periodo medio.
+s m
+Figura 13. Serie temporale dei parametri di moto ondoso registrati dalla boa di Siniscola della rete
+ondametrica nazionale RON (ISPRA), dove H è l’altezza significativa d’onda e T il periodo medio.
+s m
+I parametri di moto ondoso nei mari della Sardegna sono stati registrati dalle boe di Cagliari (Figura 12) e
+Siniscola della Rete Ondametrica Nazionale RON (Figura 13). La boa di Cagliari ha registrato il picco della
+tempesta alle 03:00 UTC del mattino del 20 con un’altezza d’onda significativa pari a 3.7 m, un periodo
+medio di 8.8 s e un periodo di picco di 11.6 s. Quantitativi energetici più elevati sono stati registrati dalla
+boa di Siniscola: al picco della tempesta avvenuto alle 10:00 UTC del 20, la boa ha riportato un’altezza
+d’onda significativa di 5.5 m, un periodo medio di 9 s e un periodo di picco di 10.2 s. Lo sfasamento di 7
+ore tra il picco della mareggiata a Cagliari e a Siniscola sembra essere la conseguenza della localizzazione
+geografica delle due boe, con la boa di Cagliari interessata principalmente dal moto ondoso generato nel
+Canale di Sardegna e di Sicilia, mentre la boa di Siniscola è risultata più esposta al moto ondoso generato
+nel Tirreno. La discrepanza di valori dei parametri tra le due boe, oltre che alla localizzazione geografica,
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 14/95
+
+
+===== PAGE 15 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+può essere attribuita anche alla diversa esposizione rispetto alla linea di costa più vicina. Infatti, la boa di
+Cagliari, essendo situata nel settore orientale del Golfo omonimo, risulta parzialmente riparata da Capo
+Carbonara durante le mareggiate da est. Di conseguenza, rispetto alla boa di Siniscola, la boa di Cagliari
+ha riportato una direzione media più ruotata verso sud e una minore altezza d’onda. La Tabella 2 riassume
+i parametri del moto ondoso registrati dalle boe di Cagliari e Siniscola al picco della mareggiata.
+Boa Data e ora picco Altezza d’onda Periodo medio Periodo di picco Direzione
+[UTC] significativa Tm [s] Tp [s] [°]
+Hs [m]
+Cagliari 03:00 del 20/01 3.7 8.8 11.6 139
+Siniscola 10:00 del 20/01 5.5 9.0 10.2 115
+Tabella 2. Parametri moto ondoso registrati dalle boe di Cagliari e Siniscola.
+Figura 14. Altezza d'onda significativa misurata da satellite il 19/01/2026 e il 20/01/2026.
+Le due boe della RON sono localizzate in prossimità della costa dove la profondità è circa di 100 m. I dati
+misurati di altezza d’onda in mare aperto lontano dalla costa possono essere ottenuti dalle rilevazioni
+satellitari. Mentre le boe forniscono le serie temporali delle variabili puntuali del moto ondoso, i satelliti
+restituiscono le variabili lungo specifiche traiettorie. La Figura 14 mostra l’altezza d’onda significativa
+rilevata durante le giornate del 19 e del 20 da diverse missioni satellitari, i cui dati sono disponibili sulla
+piattaforma Copernicus Marine Service CMS2. Coerentemente con dati misurati dalle boe, i satelliti hanno
+rilevato le maggiori altezze d’onda durante la giornata del 20. In particolare, l’altezza d’onda significativa
+ha superato i 6 m nei mari a sud-est della Sardegna (nel canale di Sardegna e nel settore più meridionale
+del Tirreno Occidentale). Mentre nei settori più settentrionali del Tirreno Occidentale (indicativamente al di
+sopra di 40° N in Figura 14) le altezze d’onda lungo le traiettorie dei satelliti sono state inferiori ai 6 m.
+2.4. Marea e livelli idrometrici
+L'analisi dell’escursione di marea, come somma della marea astronomica e della marea meteorologica
+associata al passaggio del ciclone Harry, può essere condotta a partire dai dati dei livelli idrometrici
+registrati dai mareografi della Rete Mareografica Nazionale RMN. Attualmente, in Sardegna sono
+2 https://marine.copernicus.eu/it
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 15/95
+
+
+===== PAGE 16 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+disponibili i dati di quattro mareografi: Porto Torres, Arbatax, Cagliari e Carloforte. Questa sezione analizza
+i dati provenienti dai primi tre, in quanto il mareografo di Carloforte non riporta dati nei giorni del passaggio
+del ciclone.
+La Figura 15 mostra le serie storiche dei livelli idrometrici registrati dai tre mareografi durante i giorni del
+ciclone Harry. Per i mareografi di Porto Torres e Cagliari, la Figura indica inoltre la quota del livello medio
+del mare riferita all’intero anno 2025 (26 cm per entrambi). Il dato della quota del livello medio non viene
+fornito per il mareografo di Arbatax in quanto la serie storica disponibile copre solo la seconda parte del
+2025 e il dato medio calcolato su una frazione dell’anno risentirebbe della stagionalità.
+Figura 15. Serie temporale dei livelli idrometrici registrati dai mareografi della rete mareografica
+nazionale RMN.
+Nei tre mareografi i maggiori picchi di marea sono avvenuti nella mattina del 19 e del 20. I picchi pomeridiani
+sono stati più modesti, a causa del minore contributo della marea astronomica. Il mareografo di Cagliari ha
+registrato un picco pari a 58 cm rispetto allo zero del mareografo, che equivale a 32 cm rispetto alla quota
+del livello medio del mare (26 cm). Non avendo la quota del livello medio di riferimento, non è possibile fare
+un ragionamento simile per il mareografo di Arbatax, che comunque ha escursioni di marea (differenza tra
+minimo e massimo) dello stesso ordine di grandezza di quelle di Cagliari. Il mareografo di Porto Torres,
+invece, mostra sia minori escursioni di marea che minori picchi rispetto al mareografo di Cagliari.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 16/95
+
+
+===== PAGE 17 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Con l'intento principale di stimare il picco di marea meteorologica e quindi lo storm surge durante l’evento,
+è stata condotta un’analisi armonica sulla serie storica del livello idrometrico al mareografo di Cagliari. La
+Figura 16 mostra il risultato dell’analisi armonica con l’identificazione dei contributi individuali di marea
+astronomica e marea meteorologica. Nelle giornate del 18 e 21 gennaio, il livello totale è virtualmente
+sovrapponibile alla marea astronomica, indicando un contributo minimo della componente meteorologica.
+Durante giornata del 19, è possibile osservare un graduale incremento della marea meteorologica
+associato all’intensificarsi della forzante atmosferica. Da notare che il segnale di marea astronomica risulta
+molto rumoroso come conseguenza del rumore già presente nel segnale di livello idrometrico totale. Il picco
+di marea meteorologica (storm surge) viene raggiunto nella mattinata del 20 e in seguito i valori si
+mantengono pressoché stabili per alcune ore per poi, infine, iniziare a calare sensibilmente a partire dalla
+tarda serata dello stesso giorno. Durante la mattina del 20 il livello idrometrico totale raggiunge il valore
+massimo (32 cm rispetto al livello medio), in concomitanza con i massimi contributi della marea astronomica
+e dello storm surge.
+Figura 16. Analisi armonica con l’identificazione dei contributi individuali di marea astronomica e
+marea meteorologica per il livello idrometrico al mareografo di Cagliari.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 17/95
+
+
+===== PAGE 18 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+3. CONFRONTO CON L’EVENTO STORICO DELL’OTTOBRE 1951
+La situazione meteorologica dell’evento oggetto di analisi presenta delle forti analogie con un evento
+analogo che investì la Sardegna dal 14 al 19 ottobre 1951. Si tratta della cosiddetta Alluvione di Gairo che
+ebbe un impatto devastante sulla Sardegna Orientale.
+La Figura 17 mostra il campo di pressione riportata al livello del mare del 15 ottobre 1951. Si può osservare
+che la struttura a scala sinottica era molto simile a quella dell’evento attuale. Anch’essa, Infatti, presentava
+una configurazione di blocco costituita da un anticiclone sull’Europa Nord-Orientale e un minimo barico al
+suolo esteso dalla Sardegna sino alla Tunisia. Come per l’evento attuale, il blocco atmosferico mantenne
+la saccatura al suolo confinata nella stessa posizione per l’intero evento.
+La configurazione barica favorì l’afflusso di aria molto umida dal Mediterraneo Meridionale verso Sardegna,
+Sicilia e Tunisia, provocando abbondanti precipitazioni che investirono gli stessi territori in maniera costante
+per più giorni. Il carattere presumibilmente stratiforme dell’evento di può dedurre dalle osservazioni a vista
+effettuate nell’osservatorio meteorologico di Capo Bellavista (Arbatax) che riportavano una copertura
+continua con cumuli e nembostrati e una precipitazione ininterrotta (a carattere debole o moderato) per
+l’intero evento.
+Figura 17. Altezza di geopotenziale a 500 hPa (gpdam) e pressione al livello del mare (hPa) del
+15/10/1951 alle 00:00 UTC (wetterzentrale.de su dati ERA5).
+La Figura 18 mostra il cumulato di precipitazione dal 14 al 19 ottobre 1951. Tale figura mostra una
+sorprendente somiglianza con la Figura 9, cioè quella relativa all’evento oggetto della presente analisi.
+L’unica differenza sono i valori assoluti della pluviometria che, nell’evento storico del 1951, furono più
+elevati.
+Nell’episodio del 1951 si vede chiaramente un’estesa porzione della Sardegna Orientale, cioè un’area che
+va dal Sarrabus sino alla Gallura, interessata da precipitazioni che superarono i 400 mm in 5 giorni e un
+secondo massimo ben localizzato sui monti del Sulcis. All’interno dell’area più colpita si rileva come la zona
+dell’Alta Ogliastra fu investita in maniera ancora più intensa con cumulati superiori ai 1000mm in 5 giorni
+sino a un massimo assoluto di 1536.6 mm a Sicca d’Erba (Arzana, OG).
+Il confronto tra i due eventi mostra anche che la Sardegna Occidentale, in particolare quella che oggi
+corrisponde all’Area Metropolitana di Sassari, alla Provincia di Oristano e alla Provincia del Medio
+Campidano, furono interessate molto meno dall’evento, seppur con cumulati importanti.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 18/95
+
+
+===== PAGE 19 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 18. Cumulato di precipitazione dal 14 al 19 ottobre 1951.
+Risulta interessante il confronto numerico tra i singoli cumulati del 18-21 gennaio 2026 e i singoli cumulati
+dal 14 al 19 ottobre 1951, nelle stazioni meteorologiche confrontabili tra loro per posizione. Il confronto
+percentuale stazione per stazione mostra che i valori dell’evento recente risultano, in media, pari al 31%
+rispetto a quelli dell’evento storico, con una forchetta che va dal 20% al 60% (circa), senza significative
+differenze tra le diverse sub-regioni della Sardegna.
+In assenza di misure ondametriche storiche non si possono fare confronti precisi tra la mareggiata del 2026
+e un’eventuale mareggiata del 1951. Tuttavia. la forte somiglianza nella configurazione barica al suolo porta
+a ipotizzare che un’importante mareggiata da Scirocco si sia potuta sviluppata anche nell’evento storico.
+Un indizio strumentale che una probabile mareggiata si sia verificata è dato dalle osservazioni
+anemometriche di Capo Bellavista che riportavano un costante vento da est/sud-est con valori tra i 10 m/s
+e i 20 m/s per l’intero evento.
+Nel complesso, dunque, i due eventi si possono considerare molto simili tra di loro, con la differenza che
+l’evento del 1951 risultò caratterizzato da piogge tre volte tanto più abbondanti che, a loro volta, impattarono
+su un territorio che, a differenza di oggi, era completamente impreparato a ricevere un evento meteo di
+questa portata.
+Nonostante la forte analogia sinottica con l’Alluvione di Gairo, è opportuno evidenziare che i due episodi si
+sono sviluppati in contesti climatici differenti e con una durata diversa (circa cinque giorni nel 1951 contro
+poco meno di tre giorni per l’evento recente). L’evento del 1951 si collocò infatti nella parte centrale di
+ottobre, periodo in cui la temperatura superficiale del mare (SST) nel Mediterraneo Occidentale risulta
+mediamente superiore ai 20 °C. Al contrario, l’episodio del gennaio 2026 si è verificato a cavallo dell’ultima
+decade del mese, prossima al periodo statisticamente più freddo dell’anno per quanto riguarda la SST, che
+in quest’area mediterranea presenta valori medi inferiori ai 15 °C (Figura 19).
+In un simile contesto avvettivo, l’apporto di vapore acqueo da parte della superficie marina risulta
+significativamente ridotto, così come la capacità del sistema atmosferico di generare instabilità convettiva.
+Ciò contribuisce a spiegare, almeno in parte, la pluviometria inferiore registrata nell’evento recente rispetto
+a quella osservata nel 1951, pur a fronte di una configurazione barica e di una persistenza sinottica
+sorprendentemente simili.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 19/95
+
+
+===== PAGE 20 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 19. Media giornaliera 1982-2025 di temperatura della superficie del mare (SST) per il
+Mediterraneo (elaborazione CEAM – Mediterranean Center for Environmental Studies su dati NCEI
+– National Centers for Environmental Information).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 20/95
+
+
+===== PAGE 21 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4. ANALISI IDROLOGICA
+In questa sezione si riporta l’analisi pluvio-idrometrica a scala di bacino idrografico per i bacini
+maggiormente interessati dal presente evento meteorologico, ossia quelli del Riu Cixerri, del Riu Murmurei,
+del Fiume Tirso (alla stazione “Tirso Rifornitore Tirso”), del Fiume Padrogiano, del Fiume di Posada, del
+Fiume Cedrino, del Riu Pramera, del Torrente Quirra, del Fiume Flumendosa, e del Riu Picocca (Figura
+20).
+Tali bacini sono monitorati da stazioni termo-pluviometriche e idrometriche in alveo e in diga inserite nella
+rete fiduciaria (RF) ARPAS con finalità di Protezione Civile e nella Rete Unica (RU) Regionale di
+monitoraggio meteorologico e termopluviometrico.
+Per l’analisi di confronto con la serie storica dei dati idrometrici, sono stati trascurati volutamente i dati
+rilevati dalle stazioni della rete idrometrica tradizionale antecedenti alle registrazioni in tempo reale, poiché
+il confronto tra i differenti livelli idrometrici è inficiato sia da un difetto di conoscenza dello zero idrometrico
+sia dalla trasformazione che la sezione dell’alveo ha subito nel tempo.
+L’esito del presente rapporto costituisce implicita validazione delle registrazioni pluvio-idrometriche
+effettuate nelle stazioni esaminate.
+Nel seguito gli orari si intendono in formato UTC, che risulta 1 ora indietro rispetto all’ora locale in presenza
+dell’ora solare.
+Figura 20. Mappa della precipitazione cumulata nelle 96 ore tra le ore 00:00 del 18 gennaio e le ore
+23:59 del 21 gennaio (interpolazione dati stazioni pluviometriche rete ARPAS) e bacini idrografici
+analizzati.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 21/95
+
+
+===== PAGE 22 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.1. IL BACINO DEL RIU CIXERRI
+Il bacino idrografico del Cixerri drena un’area di circa 578 km2 (Figura 21 e Tabella 3).
+Figura 21. Delimitazione del bacino idrografico del Cixerri, pluviometri e idrometri ARPAS, dighe
+ENAS e modello digitale delle elevazioni.
+Area 578 km2
+Lunghezza asta principale 68 km
+Quota media del bacino 224.5 m slm
+Quota massima 1112 m slm
+Quota foce 0 m slm
+Tabella 3. Caratteristiche morfometriche del bacino idrografico in oggetto.
+4.1.1. ANALISI PLUVIOMETRICA
+In Figura 22 viene riportata la pioggia cumulata misurata tra il 18 e il 21 gennaio dalle stazioni della rete
+fiduciaria ARPAS con finalità di Protezione Civile e della Rete Unica Regionale interne al bacino sotteso
+alla foce. I cumulati complessivi dell’evento rilevati nelle stazioni in esame sono stati: Siliqua Campanasissa
+125.2 mm; Iglesias RF 57.4 mm; Iglesias San Michele 49.0 mm; Diga Genna Is Abis 48.4 mm; Siliqua RU
+47.2 mm; Diga Punta Gennarta 43.6 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 22/95
+
+
+===== PAGE 23 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 22. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne al
+bacino.
+4.1.2. ANALISI IDROMETRICA
+Nel seguente paragrafo i dati idrometrici saranno descritti procedendo da monte verso valle. Le stazioni
+idrometriche analizzate nel seguito sono: Riu Cixerri a Villamassargia e Riu Cixerria Uta.
+In Figura 23 si riportano i livelli idrometrici misurati alla stazione Riu Cixerri a Villamassargia rispetto allo
+zero idrometrico (103.54 m s.l.m.). L’area del bacino idrografico sotteso alla stazione in argomento è pari
+a circa 67 km2. Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.016 m. Il massimo livello
+idrometrico, pari a 2.785 m, è stato raggiunto il 24 gennaio alle ore 02:30. La soglia di allerta rossa S3, pari
+a 2.78 m, è stata quindi raggiunta. Dall’inizio delle osservazioni in tempo reale di questa stazione (27 luglio
+2017), il massimo livello idrometrico raggiunto è pari a 2.91 m (18 dicembre 2019).
+Figura 23. Livelli idrometrici osservati alla stazione Riu Cixerri a Villamassargia e soglie
+idrometriche di allerta.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 23/95
+
+
+===== PAGE 24 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 24. Livelli idrometrici osservati alla stazione Riu Cixerri a Uta e soglie idrometriche di allerta
+(in fase di approvazione).
+In Figura 24 si riportano i livelli idrometrici misurati alla stazione Riu Cixerri a Uta rispetto allo zero
+idrometrico (2.66 m s.l.m.). L’area del bacino idrografico sotteso alla stazione in argomento è pari a circa
+571 km2. Prima dell’inizio dell’evento il livello idrometrico era pari a circa -0.02 m. Il massimo livello
+idrometrico, pari a 2.10 m, è stato raggiunto il 24 gennaio alle ore 11:15. La soglia di allerta arancione S2,
+pari a 2.1 m, ed è stata raggiunta. Dall’inizio delle osservazioni in tempo reale di questa stazione (24 marzo
+2022), tale livello risulta essere il massimo livello idrometrico raggiunto.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 24/95
+
+
+===== PAGE 25 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.2. IL BACINO DEL RIU MURMUREI
+Il bacino idrografico del Riu Murmurei alla traversa S. Lucia, drena un’area di circa 81 km2 (Figura 25 e
+Tabella 4).
+Figura 25 . Delimitazione del bacino idrografico del Riu Murmurei alla traversa S. Lucia, pluviometri
+e idrometri ARPAS , dighe ENAS e modello digitale delle elevazioni.
+Area 81 km2
+Lunghezza asta principale 18 km
+Quota media del bacino 401 m slm
+Quota massima 1110 m slm
+Quota minima 53.5 m slm
+Tabella 4. Caratteristiche morfometriche del bacino idrografico in oggetto.
+4.2.1. ANALISI PLUVIOMETRICA
+La stazione pluviometrica ARPAS con finalità di Protezione Civile Uta Santa Lucia ha registrato un cumulato
+complessivo dell’evento di 55.6 mm (Figura 26).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 25/95
+
+
+===== PAGE 26 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 26. Altezza di precipitazione cumulata misurata dalla stazione della rete ARPAS interna al
+bacino.
+4.2.2. ANALISI IDROMETRICA
+La stazione idrometrica analizzata nel seguito è quella di Riu Murmurei alla traversa di S. Lucia. In Figura
+27 si riportano i livelli idrometrici misurati rispetto allo zero idrometrico (51.51 m s.l.m.). L’area del bacino
+idrografico sotteso alla stazione in argomento è pari a circa 81 km2.
+Figura 27. Livelli idrometrici osservati alla stazione Riu Murmurei a trav. S. Lucia e soglie
+idrometriche di allerta.
+Prima dell’inizio dell’evento il livello idrometrico era pari a 1.347 m. Sono stati raggiunti tre picchi tra cui il
+più elevato pari a 2.094 m del 20 gennaio alle ore 6:00, superando la soglia S2. Dall’inizio delle osservazioni
+in tempo reale di questa stazione (01 ottobre 2018), il massimo livello idrometrico raggiunto è pari a 4.02
+m (10 ottobre 2018).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 26/95
+
+
+===== PAGE 27 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.3. IL BACINO DEL FIUME TIRSO A RIFORNITORE TIRSO
+Il bacino idrografico del Fiume Tirso drena un’area di circa 2040 km2, mentre è pari a circa 590 km2 l’area
+drenata dal bacino alla sezione Tirso a Rifornitore Tirso di seguito analizzato (Figura 28).
+Figura 28. Delimitazione dei bacini idrografici del Fiume Tirso-Flumineddu, pluviometri e idrometri
+della Rete Fiduciaria ARPAS con finalità di Protezione Civile, dighe ENAS, reticolo idrografico e
+modello digitale delle elevazioni.
+4.4. ANALISI PLUVIOMETRICA
+Le stazioni pluviometriche analizzate, rappresentate nella Figura 28, fanno parte della Rete Fiduciaria
+ARPAS con finalità di Protezione Civile e della Rete Unica Regionale e ricadono all’interno del bacino
+sotteso alla stazione idrometrica Tirso a Rifornitore Tirso. In Figura 29 viene riportata la pioggia cumulata
+registrata. I cumulati complessivi dell’evento rilevati nelle stazioni in esame sono stati: Diga Sos Canales
+137.0 mm; Osidda RF 118.6 mm; Benetutti RU 72.0 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 27/95
+
+
+===== PAGE 28 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 29. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne e in
+prossimità al bacino.
+4.4.1. ANALISI IDROMETRICA
+La stazione idrometrica è Tirso a Rifornitore Tirso (zero idrometrico pari a 174,75 m s.l.m.). Prima dell’inizio
+dell’evento il livello idrometrico era pari a circa 0.82 m.
+Figura 30. Livelli idrometrici osservati alla stazione Tirso a Rifornitore Tirso e soglie idrometriche
+di allerta.
+Il massimo livello idrometrico, pari a 3.99 m, è stato raggiunto il 20 gennaio alle ore 12:30. La soglia di
+allerta arancione S3, pari a 2.87 m, è stata superata (Figura 30). Dall’inizio delle osservazioni in tempo
+reale di questa stazione (2006), il massimo livello idrometrico registrato è stato 5.37 m il 22 gennaio 2017.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 28/95
+
+
+===== PAGE 29 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.5. IL BACINO DEL PADROGIANO
+Il bacino idrografico del fiume Padrogiano drena un’area di circa 439 km2 (Figura 31 e Tabella 5).
+Figura 31. Delimitazione del bacino idrografico del Padrogiano alla foce, pluviometri e idrometri
+ARPAS e modello digitale delle elevazioni.
+Area 439.5 km2
+Lunghezza asta principale 27.23 km
+Quota media del bacino 272 m slm
+Quota massima 1231 m slm
+Quota foce 0 m slm
+Tabella 5. Caratteristiche morfometriche del bacino idrografico.
+4.5.1. ANALISI PLUVIOMETRICA
+In Figura 32 viene riportata la pioggia cumulata, misurata a partire dalle prime ore 00:00 del 18 gennaio e
+fino al 21 gennaio alle ore 23:00, dalle stazioni in esame (Figura 31). I cumulati complessivi dell’evento
+rilevati nelle stazioni in esame sono stati: Padru Sa Pianedda 161.6 mm; Monti Su Canale 96 mm; Monti
+RF 88.8 mm; Telti RU 88.7 mm e Fiume Padrogiano a p.te SS125 75.2 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 29/95
+
+
+===== PAGE 30 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 32. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne e in
+prossimità al bacino.
+4.5.2. ANALISI IDROMETRICA
+Nel seguente paragrafo i dati idrometrici registrati durante l’evento sono descritti procedendo da monte
+verso valle considerando le stazioni idrometriche lungo il fiume Padrogiano e il Riu de su Piricone, affluente
+in destra idraulica. Le stazioni idrometriche analizzate, riportate in Figura 31, sono Fiume Padrogiano a
+p.te SP24, Piricone a p.te Spirito Santo e Fiume Padrogiano a p.te SS125.
+In Figura 33 si riporta l’idrogramma di piena misurato alla stazione Fiume Padrogiano a p.te SP24 in termini
+di livelli idrometrici rispetto allo zero idrometrico. Prima dell’inizio dell’evento il livello idrometrico era pari a
+0.23 m. Il massimo livello idrometrico, pari a 1.18 m, è stato raggiunto alle ore 12:00 del 20 gennaio.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2023), questo rappresenta il massimo livello
+idrometrico mai raggiunto.
+Figura 33. Livelli idrometrici osservati alla stazione Fiume Padrogiano a p.te SP24.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 30/95
+
+
+===== PAGE 31 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+In Figura 34 si riporta l’idrogramma di piena misurato alla stazione Piricone a p.te Spirito Santo in termini
+di livelli idrometrici rispetto allo zero idrometrico. Prima dell’inizio dell’evento il livello idrometrico era pari a
+0.53 m. Il massimo livello idrometrico, pari a 2.75 m, è stato raggiunto il 20 gennaio alle 10:45. Dall’inizio
+delle osservazioni in tempo reale di questa stazione (2024), questo rappresenta il massimo livello
+idrometrico mai raggiunto.
+Figura 34. Livelli idrometrici osservati alla stazione Piricone a p.te Spirito Santo.
+In Figura 35 si riporta l’idrogramma di piena misurato alla stazione Fiume Padrogiano a p.te SS125 in
+termini di livelli idrometrici rispetto allo zero idrometrico (0.34 m s.l.m.). L’area del bacino idrografico sotteso
+alla stazione è pari a circa 437.71 km2. La stazione è posta pressoché alla foce del fiume Padrogiano e
+segnatamente il livello idrometrico risente dell’effetto della marea. Prima dell’inizio dell’evento il livello
+idrometrico oscillava, appunto per l’effetto della marea, tra circa -0.5 m e -0.2 m. Il massimo livello
+idrometrico è stato registrato pari a 1.02 m e raggiunto il 20 gennaio alle 12:45. La soglia di allerta gialla
+S1, pari a 1.00 m, è stata pertanto superata. Dall’inizio delle osservazioni in tempo reale di questa stazione
+(2017), il massimo livello idrometrico raggiunto è pari a 2.32 m (22 aprile 2020).
+Figura 35. Livelli idrometrici osservati alla stazione Fiume Padrogiano a p.te SS125 e soglie
+idrometriche di allerta.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 31/95
+
+
+===== PAGE 32 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.6. IL BACINO DEL POSADA
+Il bacino idrografico del Posada drena un’area di circa 701 km2 (Figura 36). In Tabella 6 vengono riportate
+le principali caratteristiche morfometriche del bacino.
+Figura 36. Delimitazione del bacino idrografico del Posada alla foce, pluviometri e idrometri ARPAS,
+dighe ENAS e modello digitale delle elevazioni.
+Area 701 km2
+Lunghezza asta principale 85.55 km
+Quota media del bacino 468 m s.l.m.
+Quota massima 1126 m s.l.m.
+Quota foce 0 m s.l.m.
+Tabella 6. Caratteristiche morfometriche del bacino idrografico in oggetto.
+4.6.1. ANALISI PLUVIOMETRICA
+Le stazioni pluviometriche analizzate riguardanti il bacino idrografico del Posada, rappresentate nella
+Figura 36, fanno parte della Rete Fiduciaria ARPAS con finalità di Protezione Civile e della Rete Unica
+Regionale e ricadono all’interno ed in prossimità al bacino sotteso alla foce. In Figura 37 viene riportata la
+pioggia cumulata, misurata tra le ore 0:00 del 18 gennaio e le ore 23:00 del 21 gennaio, dalle stazioni in
+esame.
+I cumulati complessivi dell’evento rilevati nelle stazioni in esame sono stati: Lodè a Sas Seddas 263 mm;
+Lula RF 246.2 mm; Lodè RU 244.9 mm; Alà dei Sardi Sos Onorcolos 202.2 mm; Onanì Mamone 178 mm;
+Bitti RU 157.8 mm; Alà dei Sardi RF 148.2 mm; Alà dei Sardi Mazzinaiu 127.9 mm; Diga Maccheronis
+117.6 mm; Torpè RU 71.8 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 32/95
+
+
+===== PAGE 33 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 37. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne e in
+prossimità al bacino.
+4.6.2. ANALISI IDROMETRICA
+Le stazioni idrometriche analizzate nel seguito sono (Figura 36): Riu Mannu a p.te Gallè, Diga Maccheronis,
+Fiume di Posada a Torpè, Fiume di Posada a p.te SS125.
+In Figura 38 si riporta l’idrogramma di piena misurato alla stazione Riu Mannu a p.te Gallè in termini di livelli
+idrometrici rispetto allo zero idrometrico (120.75 m s.l.m.). L’area del bacino idrografico sotteso alla stazione
+è pari a circa 283.66 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.50 m. Il massimo livello idrometrico, pari
+a 3.23 m, è stato raggiunto il 20 gennaio alle 09:45. La soglia di allerta arancione S2, pari a 3.07 m, è stata
+pertanto superata.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2020) il massimo livello idrometrico
+registrato è stato 2.89 m il 16 novembre 2021, che in occasione di questo evento è stato superato.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 33/95
+
+
+===== PAGE 34 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 38. Livelli idrometrici osservati alla stazione Riu Mannu a p.te Gallè e soglie idrometriche di
+allerta.
+Per ottenere l’idrogramma di piena in termini di portata è stata utilizzata la scala di deflusso pubblicata dal
+Dipartimento Geologico, Idrogeologico e Idrografico di ARPAS a giugno del 2022 (Figura 39).
+L’equazione corrispondente è la seguente:
+▪ ramo di magra-morbida: 0.20947𝑚 ≤ℎ≤1.491𝑚 𝑄 =1.90920(𝑒2.39381(ℎ−0.20947)−1)
+Figura 39. Scala di deflusso della stazione idrometrica F55 Riu Mannu a p.te Gallè.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 34/95
+
+
+===== PAGE 35 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Il valore massimo del livello idrometrico estrapolabile dalla scala di deflusso è di 1.491 m (corrispondente
+a una portata di circa 39.13 m3/s). L’idrogramma delle portate osservate alla stazione idrometrica di Riu
+Mannu a p.te Gallè è riportato in Figura 40. Tutti i valori di portata relativi al periodo compreso tra le ore
+10:45 del 19 gennaio e le ore 08:15 del 22 gennaio non sono calcolabili, in quanto i livelli rilevati eccedono
+i limiti di validazione della scala di deflusso. Nella stessa figura sono riportati i risultati delle misure di portata
+in alveo effettuate.
+Figura 40. Idrogramma alla stazione idrometrica Riu Mannu a p.te Gallè.
+In Figura 41 si riportano i livelli idrometrici (in m s.l.m.) osservati durante l’evento dal profondimetro
+posizionato nella Diga Maccheronis (area del bacino idrografico sotteso pari a circa 600 km2).
+Visto il Bollettino di Criticità Regionale n. BCR/17 emesso dal CFD in data 17/01/2026, l’ente gestore della
+diga (ENAS) sentito il Centro Funzionale Decentrato (CFD) sulla possibile evoluzione meteorologica e
+idraulica dei giorni successivi, il giorno 17 gennaio ha comunicato a partire dalle ore 17:00 l’aumento di
+apertura degli scarichi dello sbarramento al fine di contenere la quota entro 38 m s.l.m., segnalando la
+necessità di controllo e di eventuale chiusura dei guadi a valle dello sbarramento.
+Il giorno 18 alle ore 00:00 il livello idrometrico era pari a circa 37.58 m s.l.m.
+Con comunicazione delle ore 15:30 del 18 gennaio, l’ente gestore, visto il BCR/18 emesso dal CFD il
+18/01/2026, ha comunicato l’attivazione della fase di allerta per rischio idraulico a valle, nonché l’aumento
+dell’apertura degli scarichi dello sbarramento a partire dalle ore 17:00 dello stesso giorno, e il
+raggiungimento della prima soglia di attenzione pari a 108 m3/s.
+Con successive comunicazioni del 19 gennaio, visto il BCR/19 emesso dal CFD lo stesso giorno, alle ore
+14:30 l’ente gestore ha segnalato l’aumento di apertura delle paratoie dello scarico di superficie in sinistra
+idraulica tale da consentire un deflusso non più sotto battente, comunicando pertanto che il deflusso in
+uscita sarebbe variato in funzione delle portate in ingresso; e alle ore 21:30 l’apertura dello scarico di fondo
+date le portate in ingresso al serbatoio in forte crescita.
+Con comunicazione delle ore 00:30 del giorno 20 è stato comunicato il raggiungimento e il superamento
+della seconda soglia di attenzione pari a 336.8 m3/s.
+Con comunicazione delle ore 10:00 del 21 gennaio e visto il BCR/20 emesso dal CFD il 20/01/2026 è stata
+segnalata la prosecuzione dell’allerta per rischio idraulico a valle e il rientro dalla seconda soglia di
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 35/95
+
+
+===== PAGE 36 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+attenzione di 336.8 m3/s, e con successiva comunicazione delle ore 10:00 del 22 gennaio il rientro al di
+sotto della prima soglia di attenzione pari a 108 m3/s, con una portata scaricata pari a circa 60 m3/s e la
+chiusura dello scarico di fondo dello sbarramento.
+L’ente gestore, visto il BCR/22 emesso dal CFD il 22/01/2026, ha infine comunicato in data 22 gennaio alle
+ore 18:30 la fine della fase di allerta per rischio idraulico a valle e l’attivazione della preallerta per rischio
+idraulico, con portate scaricate a valle dell’ordine dei 40 m3/s.
+Il livello massimo raggiunto durante l’evento è pari a 38.45 m s.l.m. ed è stato registrato il 20 gennaio alle
+10:45. Dall’inizio delle osservazioni in tempo reale di questa stazione (29 settembre 2017), il massimo
+livello idrometrico raggiunto è pari a 42.93 m s.l.m. (21 maggio 2023).
+Figura 41. Livelli idrometrici osservati alla stazione Diga Maccheronis.
+In Figura 42 si riporta l’idrogramma di piena misurato alla stazione Fiume di Posada a Torpè in termini di
+livelli idrometrici rispetto allo zero idrometrico (5.26 m s.l.m.). L’area del bacino idrografico sotteso alla
+stazione in argomento è pari a circa 636.30 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 1.01 m.
+Il massimo livello idrometrico, pari a 5.397 m, è stato raggiunto il 20 gennaio alle 13:00. La soglia di allerta
+gialla S3, pari a 4.70 m, è stata superata. Il livello è sceso al di sotto della soglia S3 il 21 gennaio alle 10:00
+(circa 21 ore dopo il picco).
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2017) il massimo livello idrometrico
+registrato è stato 3.92 m il 2 maggio 2018, che in occasione di questo evento è stato superato.
+Dalle ore 00:15 alle ore 11:00 del 20 gennaio il sensore non ha funzionato correttamente (dato mancante
+in Figura 42) e i dati idrometrici sono stati pertanto annullati.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 36/95
+
+
+===== PAGE 37 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 42. Livelli idrometrici osservati alla stazione Fiume di Posada a Torpè e soglie idrometriche
+di allerta.
+Per ottenere l’idrogramma di piena in termini di portata è stata utilizzata la scala di deflusso pubblicata dal
+Dipartimento Geologico, Idrogeologico e Idrografico di ARPAS a maggio del 2024 (Figura 43). L’equazione
+corrispondente è la seguente:
+▪ ramo di magra-morbida: −0.2361𝑚 ≤ℎ<0.9500𝑚 𝑄 =6.0575(ℎ+0.2361)2.0022
+▪ ramo di piena: 0.9500𝑚 ≤ℎ≤2.7405𝑚 𝑄 =29.6731(ℎ−0.9500)1.4862+8.5244
+Figura 43. Scala di deflusso della stazione idrometrica F00 Fiume di Posada a Torpè.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 37/95
+
+
+===== PAGE 38 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Il valore massimo del livello idrometrico estrapolabile dalla scala di deflusso è di circa 2.7405 m
+(corrispondente a una portata di circa 79 m3/s). L’idrogramma delle portate osservate alla stazione
+idrometrica di Fiume di Posada a Torpè è riportato in Figura 44. Tutti i valori di portata relativi al periodo
+compreso tra le ore 17:30 del 19 gennaio e le ore 08:45 del 22 gennaio non sono calcolabili, in quanto i
+livelli rilevati eccedono i limiti di validazione della scala di deflusso. Nella stessa figura sono riportati i risultati
+delle misure di portata in alveo effettuate.
+Figura 44. Idrogramma alla stazione idrometrica Fiume di Posada a Torpè.
+In Figura 45 si riporta l’idrogramma di piena misurato alla stazione Fiume di Posada a p.te SS125 in termini
+di livelli idrometrici rispetto allo zero idrometrico (0 m s.l.m.). L’area del bacino idrografico sotteso alla
+stazione in argomento è pari a circa 652.5 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.38 m. Il massimo livello idrometrico, pari
+a 4 m, è stato raggiunto il 20 gennaio alle 14:00. Dall’inizio delle osservazioni in tempo reale di questa
+stazione (2023) tale valore rappresenta il massimo livello idrometrico registrato.
+Figura 45. Idrogramma alla stazione idrometrica Fiume di Posada a p.te SS125.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 38/95
+
+
+===== PAGE 39 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.6.3. SOPRALLUOGO DEL 19, 20 E 21 GENNAIO 2026
+In data 19, 20 e 21 gennaio 2026 è stato eseguito un sopralluogo presso le sezioni idrometriche F00 Fiume
+di Posada a Torpè e F55 Riu Mannu a p.te Gallè, con l’esecuzione di misure di portata di piena. Un report
+fotografico con la sintesi dei risultati delle misure ottenute è riportato di seguito, rispettivamente, in Figura
+46 e in Figura 47. Gli indicatori arancioni nelle seguenti figure fanno riferimento alla posizione delle stazioni
+idrometriche.
+F00 Fiume di
+Posada a Torpè
+21/01/2026
+Ore 11:03
+h = 4.62 m Q =
+274.87 m3/s
+Ore 15:57
+h = 4.25 m Q =
+223.09 m3/s
+22/01/2026
+Ore 07:29
+h = 3.10 m Q =
+105.32 m3/s Ore
+13:36
+h = 2.20 m Q = 43.29
+m3/s
+Figura 46. Rilievo fotografico eseguito in prossimità della sezione F00 Fiume di Posada a Torpè il
+21 e 22 gennaio 2026.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 39/95
+
+
+===== PAGE 40 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+F55 Riu Mannu a p.te
+Gallè
+21/01/2026
+Ore 10:05
+h = 2.33 m Q = 113.00
+m3/s
+Ore 14:52
+h = 2.05 m Q = 78.72
+m3/s
+22/01/2026
+Ore 11:00
+h = 1.48 m Q = 41.28
+m3/s
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 40/95
+
+
+===== PAGE 41 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 41/95
+
+
+===== PAGE 42 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 47. Rilievo fotografico eseguito in prossimità della sezione F55 Riu Mannu a p.te Gallè il 21
+e 22 gennaio 2026.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 42/95
+
+
+===== PAGE 43 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.7. IL BACINO DEL CEDRINO
+Il bacino idrografico del Cedrino drena un’area di circa 1075 km2 (Figura 48). In Tabella 7 vengono riportate
+le principali caratteristiche morfometriche del bacino.
+Figura 48. Delimitazione del bacino idrografico del Cedrino, pluviometri e idrometri ARPAS, dighe
+ENAS e modello digitale delle elevazioni.
+Area 1075 km2
+Lunghezza asta principale 74 km
+Quota media del bacino 483.3 m s.l.m.
+Quota massima 1464.9 m s.l.m.
+Quota foce 0 m s.l.m.
+Tabella 7. Caratteristiche morfometriche del bacino idrografico in oggetto.
+4.7.1. ANALISI PLUVIOMETRICA
+In Figura 49 viene riportata la pioggia cumulata misurata a partire dalle prime ore del 18 gennaio e fino al
+21 gennaio alle ore 23:00, dalle stazioni della rete ARPAS interne al bacino sotteso alla foce.
+I cumulati complessivi dell’evento rilevati nelle stazioni in esame sono stati: Urzulei Genna Silana
+437.0 mm; Orgosolo Monte Novo 257.2 mm; Dorgali Oddoene RU 230.5 mm; Orune RF 227.8 mm; Oliena
+Protezione Civile 196.8 mm; Diga Pedra 'e Othoni 151.2 mm; Mamoiada RF 139.0 mm; Nuoro Farcana
+132.6 mm; Dorgali Monte Tului 92.0 mm e Galtellì RU 89.5 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 43/95
+
+
+===== PAGE 44 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 49. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne al
+bacino.
+4.7.2. ANALISI IDROMETRICA
+Nel presente paragrafo i dati idrometrici delle dodici stazioni riportate in Figura 48 saranno descritti
+procedendo da monte verso valle, in accordo con lo schema riportato in Figura 50.
+Figura 50. Schema semplificato del reticolo idrografico del Cedrino e della dislocazione delle
+stazioni di monitoraggio idrometrico.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 44/95
+
+
+===== PAGE 45 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Le stazioni idrometriche analizzate sono: Cedrino a Badu Orane, Cedrino a p.te Norgheri, Cedrino a p.te
+Oloè, Riu Frattale a p.te SP46, Riu Flumineddu a Oddoene, Diga Pedra ’e Othoni, Cedrino a Bartara, Riu
+Isalle a p.te SP38, Riu Sologo a Su Mangano, Riu Santa Maria a Irgoli, Cedrino a Onifai e Cedrino a Orosei.
+In Figura 51 i riportano i livelli idrometrici misurati alla stazione Cedrino a Badu Orane rispetto allo zero
+idrometrico (pari a 224.44 m s.l.m). Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.328
+m.
+Il massimo livello idrometrico, pari a 3.451 m, è stato raggiunto il 19 gennaio alle ore 23:30. Dall’inizio delle
+osservazioni in tempo reale di questa stazione (2019), questo rappresenta il massimo livello idrometrico
+mai raggiunto.
+Figura 51. Livelli idrometrici osservati alla stazione Cedrino a Badu Orane.
+In Figura 52 si riportano i livelli idrometrici alla stazione Cedrino a pte Norgheri (posta circa 6 km a valle
+della precedente) misurati rispetto allo zero idrometrico (pari a 175.23 m s.l.m., molto al disopra del punto
+più depresso dell’alveo). Prima dell’inizio dell’evento il livello idrometrico era pari a circa -7.287 m. Il
+massimo livello idrometrico, pari a -3.226 m, è stato raggiunto il 19 gennaio alle ore 23:30. Dall’inizio delle
+osservazioni in tempo reale di questa stazione (2019), questo rappresenta il massimo livello idrometrico
+mai raggiunto.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 45/95
+
+
+===== PAGE 46 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 52. Livelli idrometrici osservati alla stazione Cedrino a p.te Norgheri.
+In Figura 53 si riportano i livelli idrometrici alla stazione Cedrino a p.te Oloè (posta circa 8 km a valle della
+precedente) misurati rispetto allo zero idrometrico (113.94 m s.l.m.). Prima dell’inizio dell’evento il livello
+idrometrico era pari a circa 0.685 m.
+Il massimo livello idrometrico, pari a 2.159 m, è stato raggiunto il 20 gennaio alle 00:45. Dall’inizio delle
+osservazioni in tempo reale di questa stazione (2019), questo rappresenta il massimo livello idrometrico
+mai raggiunto.
+Figura 53. Livelli idrometrici osservati alla stazione Cedrino a p.te Oloè.
+In Figura 54 si riportano i livelli idrometrici alla stazione Riu Frattale a p.te SP46 misurati rispetto allo zero
+idrometrico (119.76 m s.l.m.). La stazione è posta su un affluente in sinistra idraulica al Cedrino, circa 3 km
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 46/95
+
+
+===== PAGE 47 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+a monte della confluenza; il corrispondente bacino drenato è pari a circa 36 km2. Prima dell’inizio
+dell’evento il livello idrometrico era pari a circa -0.185 m.
+Il massimo livello idrometrico, pari a 1.178 m, è stato raggiunto il 20 gennaio alle ore 6:00. Dall’inizio delle
+osservazioni in tempo reale di questa stazione (2019) il massimo livello idrometrico registrato era stato
+0.592 m il 16 novembre 2021, che in questa occasione è stato pertanto superato.
+Figura 54. Livelli idrometrici osservati alla stazione Riu Frattale a p.te SP46.
+In Figura 55 si riportano i livelli idrometrici alla stazione Flumineddu a Oddoene misurati rispetto allo zero
+idrometrico (193.11 m s.l.m.). La stazione è posta su un affluente in destra idraulica al Cedrino. Il sensore
+idrometrico è costituito da un profondimetro posto circa un metro al disopra del punto più depresso
+dell’alveo. Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0 m (profondimetro non bagnato).
+Il massimo livello idrometrico, pari a 2.36 m, è stato raggiunto il 20 gennaio alle 06:45. Dall’inizio delle
+osservazioni in tempo reale di questa stazione (2019) questo rappresenta il massimo livello idrometrico
+mai raggiunto.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 47/95
+
+
+===== PAGE 48 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 55. Livelli idrometrici osservati alla stazione Riu Flumineddu a Oddoene.
+In Figura 56 si riportano i livelli idrometrici osservati durante l’evento (in m s.l.m.) dall’idrometro posizionato
+nella diga di Pedra ’e Othoni (area del bacino idrografico sotteso pari a 628 km2). Prima dell’inizio
+dell’evento il livello idrometrico era pari a circa 99.5 m s.l.m., in diminuzione. Nel corso delle prime ore del
+19 gennaio il livello idrometrico ha iniziato a salire raggiungendo un picco di 105.41 m s.l.m., livello
+massimo osservato durante l’evento raggiunto alle ore 00:15 del 21 gennaio.
+Come da comunicazione del gestore, a seguito dei continui apporti al serbatoio della diga, nella notte tra il
+19 e il 20 gennaio è stata raggiunta e superata la quota di massima regolazione dell’invaso, pari, secondo
+le regole gestionali approvate, a quota 100 m s.l.m. È stata quindi stimata una portata scaricata a valle
+dall’invaso pari a circa 144 m3/s, con attivazione della fase di allerta per rischio idraulico a valle.
+Successivamente, alla data del 23 gennaio, a seguito della riduzione del livello dell’invaso e della
+conseguente riduzione della portata scaricata a valle (stimata in 101 m3/s) al disotto del valore di attenzione,
+è stata comunicata la fine della fase di allerta per rischio idraulico a valle
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 48/95
+
+
+===== PAGE 49 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 56. Livelli idrometrici osservati alla stazione Diga Pedra ’e Othoni.
+In Figura 57 si riportano i livelli idrometrici alla stazione Cedrino a Bartara, misurati rispetto allo zero
+idrometrico (15.04 m s.l.m.). La stazione è posta circa 7 km a valle della diga; l’area del bacino idrografico
+sotteso è pari a circa 660 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa -0.06 m. Il massimo livello idrometrico, pari
+a 2.25 m, è stato raggiunto il 20 gennaio alle 21:30. La soglia di allerta rossa S3, pari a 1.5 m, è stata
+superata. Il livello è sceso al di sotto della soglia S3 il 21 gennaio alle 13:15 (circa 16 ore dopo il picco),
+della soglia S2 (0.8 m) il 22 gennaio alle 07:00 e della soglia S1 (0.5 m) dalle 18:00 circa del 23 gennaio.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2006), il massimo livello idrometrico
+registrato è stato 3.22 m il 18 novembre 2013.
+Figura 57. Livelli idrometrici osservati alla stazione Cedrino a Bartara.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 49/95
+
+
+===== PAGE 50 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+In Figura 58 si riportano i livelli idrometrici alla stazione Riu Isalle a p.te SP38, misurati rispetto allo zero
+idrometrico (40.93 m s.l.m.). La stazione è posta nel medio corso del Riu Sologo, importante affluente in
+sinistra idraulica del Cedrino, circa 10 km a monte della confluenza.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.56 m. Il massimo livello idrometrico, pari
+a 3.02 m, è stato raggiunto il 20 gennaio alle ore 22:00. Dall’inizio delle osservazioni in tempo reale di
+questa stazione (2023), il massimo livello idrometrico raggiunto era pari a 1.55 m (27 ottobre 2024), che in
+questa occasione è stato pertanto superato.
+Figura 58. Livelli idrometrici osservati alla stazione Riu Isalle a p.te SP38.
+In Figura 59 si riportano i livelli idrometrici alla stazione Riu Sologo a Su Mangano, misurati rispetto allo
+zero idrometrico (10.69 m s.l.m.). L’area del bacino idrografico sotteso è pari a circa 292 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa -0.74 m. Il massimo livello idrometrico, pari
+a 2.66 m, è stato raggiunto il 21 gennaio alle 00:30. La soglia di allerta arancione S2, pari a 1.8 m, è stata
+quindi superata; il livello è sceso al di sotto della soglia S2 alle 13:30 del 21 gennaio (circa 13 ore dopo il
+picco), e al di sotto della soglia S1 (0.8 m) dalle ore 03:00 del 22 gennaio.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2006), il massimo livello idrometrico
+registrato è stato 5.02 m il 18 novembre 2013.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 50/95
+
+
+===== PAGE 51 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 59. Livelli idrometrici osservati alla stazione Riu Sologo a Su Mangano.
+In Figura 60 si riportano i livelli idrometrici alla stazione Riu Santa Maria a Irgoli, misurati rispetto allo zero
+idrometrico (8.13 m s.l.m.). La stazione è posta sul Riu Santa Maria, affluente in sinistra idraulica del
+Cedrino, circa 1 km a monte della confluenza. Prima dell’inizio dell’evento il livello idrometrico era pari a
+circa 0.38 m. Il massimo livello idrometrico, pari a 1.47 m, è stato raggiunto il 21 gennaio alle 00:45.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2023), questo rappresenta il massimo livello
+idrometrico mai raggiunto.
+Figura 60. Livelli idrometrici osservati alla stazione Riu Santa Maria a Irgoli.
+In Figura 61 si riportano i livelli idrometrici alla stazione Cedrino a Onifai, misurati rispetto allo zero
+idrometrico (3.50 m s.l.m.). L’area del bacino idrografico sotteso è pari a circa 1065 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.12 m. Il massimo livello idrometrico, pari
+a 5.19 m, è stato raggiunto il 21 gennaio alle 02:15. La soglia di allerta rossa S3, pari a 4.00 m, è stata
+superata. Il livello è sceso al di sotto della soglia S3 il 21 gennaio alle 16:00 (circa 14 ore dopo il picco),
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 51/95
+
+
+===== PAGE 52 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+della soglia S2 (2.30 m) alle ore 16:00 del 22 gennaio e infine della soglia S1 (1.0 m) dalle 21:00 circa del
+24 gennaio.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2006), il massimo livello idrometrico
+registrato è stato 6.11 m il 18 novembre 2013.
+Figura 61. Livelli idrometrici osservati alla stazione Cedrino a Onifai.
+Per ottenere l’idrogramma di piena in termini di portata, è stata utilizzata la scala di deflusso pubblicata in
+seconda emissione dal Servizio Idrogeologico e Idrografico di ARPAS nel maggio 2024 (Figura 62).
+L’equazione corrispondente è la seguente:
+• ramo di magra-morbida:−1.2500𝑚 ≤ℎ<0.2000𝑚 𝑄 =6.8463(ℎ+1.2500)1.1231
+• ramo di piena: 0.2000𝑚 ≤ℎ≤3.6100𝑚 𝑄 =210.5601(𝑒0.3053(ℎ−0.2000)−1)+10.3918
+Figura 62. Scala di deflusso della stazione idrometrica F31 "Cedrino a Onifai", validata e pubblicata
+a maggio 2024.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 52/95
+
+
+===== PAGE 53 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Il valore massimo del livello idrometrico estrapolabile dalla scala di deflusso è di circa 3.61 m
+(corrispondente a una portata di circa 396 m3/s). L’idrogramma calcolato in termini di portata alla stazione
+Cedrino a Onifai è riportato in Figura 63. Tutti i valori di portata relativi al periodo compreso tra le ore 05:15
+del 20 gennaio e le ore 19:00 del 21 gennaio non sono calcolabili, in quanto i livelli rilevati eccedono i limiti
+di validazione della scala di deflusso. Nella stessa figura sono riportati i risultati delle misure di portata in
+alveo effettuate dal Dipartimento Geologico, Idrogeologico e Idrografico di ARPAS in occasione dell’evento
+in oggetto.
+Figura 63. Idrogramma dell’evento misurato alla stazione Cedrino a Onifai in termini di portata
+derivata dalla scala di deflusso validata, e misure di portata in alveo.
+In Figura 64 si riportano i livelli idrometrici alla stazione Cedrino a Orosei, misurati rispetto allo zero
+idrometrico (0.00 m s.l.m.). La stazione è posta alla foce del Cedrino e segnatamente il livello idrometrico
+risente dell’effetto della marea. Prima dell’inizio dell’evento il livello idrometrico era 0.26 m. Il massimo
+livello idrometrico, pari a 3.45 m, è stato raggiunto il 21 gennaio alle ore 3:00. Dall’inizio delle osservazioni
+in tempo reale di questa stazione (2024), questo rappresenta il massimo livello idrometrico mai raggiunto.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 53/95
+
+
+===== PAGE 54 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 64. Livelli idrometrici osservati alla stazione Cedrino a Orosei.
+4.7.3. SOPRALLUOGO DEL 21 E 22 GENNAIO 2026
+In data 21 e 22 gennaio 2026 sono stati eseguiti sopralluoghi presso la sezione idrometrica F31 Cedrino a
+Onifai, con l’esecuzione di alcune misure di portata. Un report fotografico con la sintesi dei risultati delle
+misure ottenute è riportato di seguito in Figura 65. L’indicatore nella figura fa riferimento alla posizione della
+stazione idrometrica.
+F31 Cedrino a Onifai
+Misure di portata
+21 gennaio:
+Ora h (m) Q (m3/s)
+12:58 4,40 471,406
+17:39 3,74 366,177
+22 gennaio:
+Ora h (m) Q (m3/s)
+10:29 2,47 210,716
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 54/95
+
+
+===== PAGE 55 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 55/95
+
+
+===== PAGE 56 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 65. Report fotografico eseguito in corrispondenza della sezione F31 Cedrino a Onifai 21
+gennaio (prime due foto in alto) e 22 gennaio (ultima foto in basso).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 56/95
+
+
+===== PAGE 57 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.8. IL BACINO DEL PRAMAERA
+Il bacino idrografico del Riu Pramaera sotteso alla stazione idrometrica di Lotzorai ricopre un’area di circa
+176.6 km2 (Figura 66). In Tabella 8 vengono riportate le principali caratteristiche morfometriche del bacino.
+Figura 66. Delimitazione del bacino idrografico del Riu Pramaera sotteso alla stazione idrometrica
+di Lotzorai, pluviometri e idrometri ARPAS e modello digitale delle elevazioni.
+Area 176.6 km2
+Lunghezza asta principale 25.8 km
+Quota media del bacino 413.7 m s.l.m.
+Quota massima 1361.0 m s.l.m.
+Quota minima 0.99 m s.l.m.
+Tabella 8. Caratteristiche morfometriche del bacino idrografico in oggetto.
+4.8.1. ANALISI PLUVIOMETRICA
+In Figura 67 viene riportata la pioggia cumulata misurata dalle ore 00:00 del 18 gennaio alle 23:00 del 23
+gennaio dalle stazioni della rete fiduciaria ARPAS con finalità di Protezione Civile e della Rete Unica
+Regionale interne al bacino sotteso alla stazione idrometrica di Riu Pramaera a Lotzorai, indicato in Figura
+66.
+La stazione Baunei RF ha registrato un cumulato complessivo di 205.6 mm e la stazione della Rete Unica
+Regionale Urzulei RU un cumulato complessivo dell’evento pari a 328.3 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 57/95
+
+
+===== PAGE 58 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 67. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne al
+bacino.
+4.8.2. ANALISI IDROMETRICA
+Nel seguente paragrafo i dati idrometrici sono descritti analizzando i dati trasmessi dalla stazione
+idrometrica Riu Pramaera a Lotzorai.
+In Figura 68 si riportano i livelli idrometrici misurati alla stazione rispetto allo zero idrometrico (0.99 m s.l.m.).
+Prima dell’inizio dell’evento il livello idrometrico era pari a 0.788 m.
+Figura 68. Livelli idrometrici osservati alla stazione di Riu Pramaera a Lotzorai e soglie idrometriche
+di allerta.
+Il massimo livello idrometrico registrato pari a 3.406 m è stato raggiunto il 21 gennaio alle 00:30. In tale
+occasione è stata superata la soglia di allerta gialla S1, pari a 3.40 m. Dall’inizio delle osservazioni in tempo
+reale di questa stazione (13 settembre 2017) il massimo livello idrometrico raggiunto è pari a 3.993 m
+(registrato in data 29 novembre 2020).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 58/95
+
+
+===== PAGE 59 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.8.3. SOPRALLUOGO DEL 22 GENNAIO 2026
+In data 22 gennaio 2026 è stato eseguito un sopralluogo presso la sezione idrometrica F03 Riu Pramaera
+a Lotzorai, con l’esecuzione di una serie di misure di portata (Figura 69). Un report fotografico con la sintesi
+dei risultati delle misure ottenute è riportato di seguito rispettivamente in Figura 70. L’indicatore arancione
+nella figura fa riferimento alla posizione della stazione idrometrica.
+Figura 69. Misure di portata in alveo effettuate durante il sopralluogo del 22 gennaio tra le ore 9:00
+e le 16:00
+F03 Riu Pramaera a Lotzorai
+22/01/2026
+ore 08:33
+h= 1.75 m Q= 24.478 m3/s
+ore 09:20
+h= 1.735 m Q= 22.738 m3/s
+ore 10:56
+h= 1.70 m Q= 20.683 m3/s
+ore 13:10
+h= 1.65 m Q= 18.998 m3/s
+ore 14:45
+h= 1.615 m Q= 18.979 m3/s
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 59/95
+
+
+===== PAGE 60 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 70. Report fotografico eseguito in prossimità della sezione F03 Riu Pramaera a Lotzorai il 22
+gennaio.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 60/95
+
+
+===== PAGE 61 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.9. IL BACINO DEL QUIRRA
+Il bacino idrografico del Quirra ricopre un’area di circa 364 km2 (Figura 71). In Tabella 9 vengono riportate
+le principali caratteristiche morfometriche del bacino.
+Figura 71. Delimitazione del bacino idrografico del Quirra, pluviometri e idrometri ARPAS e modello
+digitale delle elevazioni.
+Area 364 km2
+Lunghezza asta principale 37.9 km
+Quota media del bacino 352.1 m s.l.m.
+Quota massima 988 m s.l.m.
+Tabella 9. Caratteristiche morfometriche del bacino idrografico in oggetto.
+4.9.1. ANALISI PLUVIOMETRICA
+In Figura 72 viene riportata pioggia cumulata misurata tra il 18 e il 21 gennaio dalle stazioni della rete
+ARPAS interne al bacino sotteso alla foce. I cumulati complessivi dell’evento rilevati nelle stazioni in esame
+sono stati: Perdasdefogu RU 273.3 MM; Tertenia RF 211.4 mm; Osini c.ra Masonedili 174.5 mm; San Vito
+c.ra S. Barbara 137.5 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 61/95
+
+
+===== PAGE 62 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 72. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne al
+bacino.
+4.9.2. ANALISI IDROMETRICA
+Le stazioni idrometriche analizzate nel seguito sono: Torrente Quirra a Tertenia e Torrente Quirra a Quirra.
+In Figura 73 si riportano i livelli idrometrici misurati alla stazione di Torrente Quirra a Tertenia rispetto allo
+zero idrometrico (95.47 m s.l.m.). L’area del bacino idrografico sotteso alla stazione è pari a 31.9 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.42 m. Il massimo livello idrometrico, pari
+a 2.082 m, è stato raggiunto il 20 gennaio alle ore 23:30. La soglia di allerta gialla S1, pari a 1.50 m, è stata
+pertanto superata.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (2017), il massimo livello idrometrico
+registrato era stato 1.967 m il 12 novembre 2021, che in questa occasione è stato pertanto superato.
+In Figura 74 si riportano i livelli idrometrici misurati alla stazione di Torrente Quirra a Quirra rispetto allo
+zero idrometrico (1.41 m s.l.m.). L’area del bacino idrografico sotteso alla stazione è pari a 259.1 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.57 m.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 62/95
+
+
+===== PAGE 63 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 73. Livelli idrometrici osservati alla stazione di Torrente Quirra a Tertenia e soglie
+idrometriche di allerta.
+Figura 74. Livelli idrometrici osservati alla stazione di Torrente Quirra a Quirra.
+Il massimo livello idrometrico, pari a 3.95 m, è stato raggiunto il 21 gennaio alle ore 02:00. Dall’inizio delle
+osservazioni in tempo reale di questa stazione (2024), il massimo livello idrometrico registrato era stato
+2.79 m il 18 gennaio 2025, che in questa occasione è stato pertanto superato.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 63/95
+
+
+===== PAGE 64 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.10. IL BACINO DEL FLUMENDOSA
+Il bacino idrografico del Flumendosa drena un’area di circa 1853 km2 (Figura 75). In Tabella 10 si riportano
+le principali caratteristiche morfometriche del bacino.
+Figura 75. Delimitazione del bacino idrografico del Flumendosa, pluviometri e idrometri ARPAS,
+dighe ENAS e ENEL, e modello digitale delle elevazioni.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 64/95
+
+
+===== PAGE 65 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Area 1853 km2
+Lunghezza asta principale 147 km
+Quota media del bacino 632 m s.l.m.
+Quota massima del bacino 1829 m s.l.m.
+Quota foce 0 m s.l.m.
+Tabella 10. Caratteristiche morfometriche del bacino idrografico in oggetto.
+4.10.1. ANALISI PLUVIOMETRICA
+In Figura 76 viene riportata la pioggia cumulata, misurata a partire dalle prime ore del 18 gennaio e fino al
+21 gennaio alle ore 23:00, dalle stazioni della rete fiduciaria ARPAS con finalità di Protezione Civile interne
+al bacino sotteso alla foce.
+I cumulati complessivi dell’evento rilevati nelle stazioni in esame sono stati: Genna Tuvara (Gairo)
+557.8 mm; Villagrande Bau Mandara 490.2 mm; Osini 396 mm; Flumendosa a Isca Rena 227.8 mm; Pranu
+Sanguini 214.6 mm; Sadali RF 211.6 mm; Flumendosa a Ballao RF 199.8 mm; Esterzili M. Santa Vittoria
+195 mm; Diga Nuraghe Arrubiu 185.4 mm; Escalaplano RF 169 mm; Diga Monte Su Rei RF 110.2 mm;
+Flumini Uri a San Vito 93.6 mm; Aritzo Monte Sa Scova 88 mm.
+In Figura 77 si riporta la pioggia cumulata misurata nella stessa finestra temporale dalle stazioni della rete
+Unica Regionale di monitoraggio meteorologico e termopluviometrico interne o prossime al bacino sotteso
+alla foce.
+I cumulati complessivi dell’evento rilevati nelle stazioni considerate sono stati: Villagrande Strisaili RU
+512.3 mm; Gairo Taquisara ARST 511 mm; Arzana Sicca d’Erba 380.7 mm; Seui RU 368.8 mm; Seui c.ra
+Arquerì 341.1 mm; Ussassai RU 327.1 mm; Seui ARST 284.1 mm; Villasalto RU 254 mm; Sadali RU
+184.4 mm; Sadali Stazione Esterzili 156.7 mm; San Vito RU 147.6 mm; Aritzo RU 113 mm; Siurgus
+Donigala RU 96.6 mm; Nurri RU 62.2 mm.
+Durante l’evento in oggetto le stazioni della rete fiduciaria Genna Tuvara e Villagrande Bau Mandara hanno
+misurato in 60 ore dalle ore 00:00 del giorno 18 fino alle ore 12 del giorno 20 dei cumulati di precipitazione
+pari a rispettivamente 417 e 370 mm, mentre le stazioni della rete Unica Regionale Villagrande Strisaili RU
+e Arzana Sicca d’Erba hanno registrato rispettivamente 374.6 e 252.5 mm.
+Durante l’evento del 27-29 novembre 2020 le stazioni di Genna Tuvara e Villagrande Bau Mandara
+avevano registrato in 60 ore rispettivamente 251.9 mm e 377.6 mm, mentre le stazioni Villagrande Strisaili
+RU e Arzana RU 285.2 mm e 190 mm.
+Durante l’evento del 18 novembre 2013 la stazione di Villagrande Bau Mandara aveva registrato 368.8 mm
+in 24 ore, mentre durante l’evento del 14-19 ottobre 1951 a Sicca d’Erba (Arzana) furono misurati 1528 mm.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 65/95
+
+
+===== PAGE 66 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 76. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS RF interne al
+bacino.
+Figura 77. Altezza di precipitazione cumulata misurata dalle stazioni della Rete Unica Regionale
+interne o prossime al bacino.
+4.10.2. ANALISI IDROMETRICA
+Nel seguente paragrafo i dati idrometrici saranno descritti procedendo da monte verso valle considerando
+le stazioni idrometriche sul fiume Flumendosa e sul rio Flumineddu, affluente in sinistra idraulica del
+Flumendosa. Le stazioni idrometriche analizzate nel seguito sono: Diga Bau Mela, Villagrande Bau
+Mandara, Flumendosa a Gadoni, Diga Nuraghe Arrubiu, Diga Monte su Rei, Flumendosa a Ballao RF, Diga
+Flumineddu, Riu Stanali a Pramas, Flumendosa a Isca Rena, Flumendosa a p.te Brecca, Flumini Uri a San
+Vito.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 66/95
+
+
+===== PAGE 67 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Il sistema dell’Alto Flumendosa è costituito dalle dighe Bau Mela, Bau Mandara e Bau Muggeris,
+interconnesse tra loro e gestite dall’ENEL. In particolare, i deflussi dell’alto Flumendosa e dei suoi affluenti
+vengono regolati dalla diga di Bau Muggeris, e attraverso le opere di utilizzazione idroelettrica deviati dal
+loro bacino naturale e scaricati sul rio Sa Teula che sfocia nella costa orientale della Sardegna in prossimità
+di Tortolì, interessando un bacino diverso da quello del Flumendosa, in cui arriva per lo più lo sfioro di
+piena.
+Le risorse del Medio Flumendosa sono gestite da ENAS e regolate dall’invaso sul Flumendosa a Nuraghe
+Arrubiu e dall’invaso sul Rio Mulargia a Monte Su Rei, collegati tra loro mediante galleria; a tale sistema
+sono addotte le acque, derivate mediante galleria, del rio Flumineddu, il cui alto corso è sbarrato dalla diga
+a Capanna Silicheri.
+In Figura 78 si riportano i livelli idrometrici (in m s.l.m.) osservati durante l’evento dall’idrometro posizionato
+nella diga Bau Mela (area del bacino idrografico sotteso pari a circa 94 km2). Prima dell’inizio dell’evento il
+livello idrometrico era pari a circa 802.63 m s.l.m.
+L’ente gestore ha comunicato a partire dal giorno 19 alle ore 10:00 l’attivazione della fase di pre-allerta per
+rischio diga e di pre-allerta per rischio idraulico a valle, con una quota dell’invaso pari a circa 806.83 m s.l.m
+e portata scaricata pari a 20 m3/s (quota di massima regolazione pari a 806.75 m s.l.m.). Con successiva
+comunicazione dello stesso giorno alle ore 16:30, con un livello idrometrico pari a circa 807.33 m s.l.m. e
+portata scaricata pari a 85 m3/s, pari alla portata di attenzione Qmin, è stata comunicata l’attivazione della
+fase di allerta per rischio idraulico a valle. Il giorno 19 alle ore 17:00 è stato raggiunto il valore della prima
+soglia incrementale (Qmin + ∆Q) pari a 100 m3/s. Con comunicazione del 21 gennaio delle ore 08:15 si è
+conclusa la fase di pre-allerta per rischio diga e la fase di allerta per rischio idraulico a valle, mentre la fase
+di pre-allerta per rischio idraulico è terminata il giorno 23 gennaio alle ore 12:15.
+Il livello massimo raggiunto durante l’evento è pari a 807.67 m ed è stato registrato il 20 gennaio alle ore
+08:15. Dall’inizio delle osservazioni in tempo reale di questa stazione (31 ottobre 2017) il massimo livello
+idrometrico è pari a 808.626 m s.l.m. (28 novembre 2020).
+Figura 78. Livelli idrometrici osservati alla stazione Diga Bau Mela.
+In Figura 79 si riportano i livelli idrometrici (in m s.l.m.) osservati durante l’evento dall’idrometro denominato
+Villagrande Bau Mandara, posizionato nell’omonima diga (area del bacino idrografico sotteso pari a circa
+24 km2). Prima dell’inizio dell’evento il livello idrometrico era pari a circa 798.70m s.l.m.
+L’ente gestore ha comunicato a partire del giorno 19 alle ore 18:30 l’attivazione della fase di pre-allerta per
+rischio diga e di pre-allerta per rischio idraulico a valle, con una quota dell’invaso pari a circa 803.65 m s.l.m
+e portata scaricata pari a 22 m3/s (quota di massima regolazione pari a 803.3 m s.l.m.). Con successiva
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 67/95
+
+
+===== PAGE 68 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+comunicazione del 21 gennaio alle ore 08:15 è stata comunicata la fine della fase di pre-allerta per rischio
+diga e la prosecuzione della fase di pre-allerta per rischio idraulico a valle, conclusasi alle ore 17:45 dello
+stesso giorno.
+Il livello massimo all’invaso è pari a 803.61 m ed è stato raggiunto il giorno 20 gennaio alle ore 05:00 circa.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (29 agosto 2017) il massimo livello
+idrometrico raggiunto è pari a 803.949 m s.l.m. (28 novembre 2020).
+Figura 79. Livelli idrometrici osservati alla stazione Villagrande Bau Mandara.
+In Figura 80 si riportano i livelli idrometrici misurati alla stazione Flumendosa a Gadoni rispetto allo zero
+idrometrico (375.82 m s.l.m.). L’area del bacino idrografico sotteso alla stazione in argomento è pari a circa
+425 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 1.26 m. Il massimo livello idrometrico, pari
+a 6.71 m, è stato raggiunto il 20 gennaio alle 08:30. La soglia di allerta arancione S2, pari a 6.67 m, è stata
+pertanto superata.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (7 novembre 2019) il massimo livello
+idrometrico raggiunto era pari a 4.68 m (28 novembre 2020), che in occasione di questo evento è stato
+quindi superato.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 68/95
+
+
+===== PAGE 69 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 80. Livelli idrometrici osservati alla stazione Flumendosa a Gadoni.
+In Figura 81 si riportano i livelli idrometrici (in m s.l.m.) osservati durante l’evento dall’idrometro posizionato
+nella diga Nuraghe Arrubiu (area del bacino idrografico sotteso pari a circa 752 km2). Prima dell’inizio
+dell’evento il livello idrometrico era pari a circa 250.97 m s.l.m, e poi ha iniziato progressivamente ad
+aumentare, raggiungendo il 26 gennaio alle 02:30 la quota di massima regolazione pari a 267 m s.l.m.
+Visto il BCR/18 del 18.01.2026 che comunicava l’allerta idraulica di colore giallo per la zona di allerta SARD-
+D Flumendosa-Flumineddu a partire dalle ore 09:00 del 19 gennaio e considerato che il livello dell’invaso
+della diga di Nuraghe Arrubiu era pari a 250.55 m s.l.m., l’ente gestore ha comunicato l’attivazione della
+fase di pre-allarme per laminazione statica, in ottemperanza alle disposizioni contenute nel Piano di
+Laminazione statica approvato con Delibera di G.R. n.6/10 del 05.02.2019.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (05 luglio 2019) il massimo livello idrometrico
+raggiunto era pari a 263.32 m s.l.m. (13 febbraio 2021), che in occasione di questo evento è stato superato.
+Visto il BCR/20 del 20.01.2026 che comunicava l’allerta idraulica di colore rosso per la zona di allerta
+SARD-D Flumendosa-Flumineddu a partire dalle ore 14:00 del 20 gennaio e considerato che il livello
+dell’invaso della diga di Nuraghe Arrubiu era pari a 259.50 m s.l.m., l’ente gestore ha comunicato
+l’attivazione della fase di allarme per laminazione.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 69/95
+
+
+===== PAGE 70 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 81. Livelli idrometrici osservati alla stazione Diga Nuraghe Arrubiu.
+In Figura 82 si riportano i livelli idrometrici (in m s.l.m.) osservati durante l’evento dall’idrometro posizionato
+nella diga Monte Su Rei (area del bacino idrografico sotteso pari a circa 180 km2). Prima dell’inizio
+dell’evento il livello idrometrico era pari a circa 223.66 m s.l.m. Dall’inizio delle osservazioni in tempo reale
+di questa stazione (07 luglio 2019), il massimo livello idrometrico raggiunto è pari a 257.52 m s.l.m. (17
+aprile 2020).
+Figura 82. Livelli idrometrici osservati alla stazione Diga Monte Su Rei.
+In Figura 83 si riportano i livelli idrometrici misurati alla stazione Flumendosa a Ballao RF rispetto allo zero
+idrometrico (77.92 m s.l.m.). L’area del bacino idrografico sotteso alla stazione in argomento è pari a circa
+1020 km2.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 70/95
+
+
+===== PAGE 71 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.44 m. Il massimo livello idrometrico, pari
+a 2.07 m, è stato raggiunto il 19 gennaio alle 19:15. La soglia di allerta rossa S3, pari a 2.08 m, non è stata
+superata.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (1° marzo 2006), il massimo livello
+idrometrico raggiunto è pari a 3.06 m (22 novembre 2011).
+Figura 83. Livelli idrometrici osservati alla stazione Flumendosa a Ballao RF.
+Per ottenere l’idrogramma di piena in termini di portata è stata utilizzata la scala di deflusso pubblicata dal
+Dipartimento Geologico, Idrogeologico e Idrografico di ARPAS a maggio del 2025 (Figura 84).
+L’equazione corrispondente è la seguente:
+• ramo di magra: 0.1475𝑚 ≤ℎ<0.9166𝑚 𝑄 =11.3829(ℎ−0.1475)2.9820
+• ramo di morbida: 0.9166𝑚 ≤ℎ<1.9635𝑚 𝑄 =2.8752(𝑒2.9580(ℎ−0.9166)−1)+5.2026
+• ramo di piena: ℎ ≥1.9635𝑚 𝑄 =136.1530(𝑒0.6910(ℎ−1.9636)−1)+65.9426
+Figura 84. Scala di deflusso della stazione idrometrica Flumendosa a Ballao RF.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 71/95
+
+
+===== PAGE 72 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Il valore massimo del livello idrometrico estrapolabile dalla scala di deflusso è di circa 3.41 m
+(corrispondente a una portata di circa 300 m3/s). L’idrogramma delle portate osservate alla stazione
+idrometrica di Flumendosa a Ballao RF è riportato in Figura 85. Nella stessa figura sono riportati i risultati
+delle misure di portata in alveo effettuate dal Dipartimento Geologico, Idrogeologico e Idrografico di ARPAS
+in occasione dell’evento.
+Figura 85. Idrogramma alla stazione idrometrica Flumendosa a Ballao RF.
+In Figura 86 si riportano i livelli idrometrici (in m s.l.m.) osservati durante l’evento dall’idrometro posizionato
+nella diga Flumineddu (area del bacino idrografico sotteso pari a circa 250 km2). Prima dell’inizio dell’evento
+il livello idrometrico era pari a circa 265.32 m s.l.m. Il livello è iniziato ad aumentare a partire dalla mattina
+del giorno 18.
+Visto l’Avviso di Criticità Regionale emesso dal CFD in data 18.01.2026, prot. n. BCR/18 valido sino alle
+ore 23:59 del 19.01.2026, l’ente gestore il giorno 19 alle ore 07:00 ha comunicato l’attivazione della fase di
+allerta per rischio idraulico a valle in quanto le portate rilasciate dalla soglia libera dello sbarramento di
+Capanna Silicheri avevano raggiunto il valore Qmin (portata di attenzione scarico diga) pari a 50 m3/s.
+A seguito dei continui apporti al serbatoio di Capanna Silicheri, la fase di allerta per rischio idraulico è
+proseguita durante il giorno 19 con portate rilasciate dalla soglia libera che hanno superato dalle ore 14:45
+circa il valore della prima soglia incrementale (Qmin + ∆Q) pari a 140 m3/s, e dalle ore 22:00 circa il valore
+della seconda soglia incrementale (Qmin + ∆Q) pari a 300 m3/s. L’ente gestore ha inoltre comunicato a
+partire dalle ore 22:40 circa l’attivazione della fase di preallerta per rischio diga avendo lo stesso superato
+la quota 278 m s.l.m. (quota di massima regolazione pari a 276.5 m slm).
+Con successiva comunicazione del giorno 21 gennaio delle ore 18:00, a seguito della diminuzione degli
+apporti al serbatoio di Capanna Silicheri, è stata chiusa la fase di preallerta per rischio diga con livello
+idrometrico dell’invaso che era sceso al di sotto del valore di 278 m s.l.m., ma è proseguita la fase di allerta
+per rischio idraulico a valle con un’entità delle portate rilasciate dalla soglia libera pari a circa 110 m3/s,
+scesa nel frattempo al di sotto del valore della prima soglia incrementale (Qmin + ∆Q) pari a 140 m3/s.
+A partire dal giorno 22 gennaio alle ore 09:15 circa è stata comunicata la fine della fase di allerta per rischio
+idraulico a valle, a seguito della diminuzione degli apporti al serbatoio di Capanna Silicheri, con un’entità
+delle portate rilasciate dalla soglia libera scesa al di sotto del valore della portata di attenzione Qmin pari a
+50 m3/s.
+Il livello massimo raggiunto durante l’evento è pari a 279.55 m s.l.m. ed è stato registrato il 20 gennaio alle
+ore 07:00. Dall’inizio delle osservazioni in tempo reale di questa stazione (07 luglio 2017) il massimo livello
+idrometrico raggiunto era pari a 278.57 m s.l.m. (04 novembre 2018), che in occasione di questo evento è
+stato superato.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 72/95
+
+
+===== PAGE 73 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 86. Livelli idrometrici osservati alla stazione Diga Flumineddu.
+In Figura 87 si riportano i livelli idrometrici misurati alla stazione Riu Stanali a Pramas rispetto allo zero
+idrometrico (78.24 m s.l.m.). L’area del bacino idrografico sotteso alla stazione in argomento è pari a circa
+390 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.45 m. Il massimo livello idrometrico, pari
+a 5.53 m, è stato raggiunto il 20 gennaio alle 09:15. La soglia di allerta rossa S3, pari a 5.62 m, non è stata
+superata.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (4 novembre 2019) il massimo livello
+idrometrico raggiunto era pari a 4.53 m (18 gennaio 2025), che in occasione di questo evento è stato
+superato.
+Figura 87. Livelli idrometrici osservati alla stazione Riu Stanali a Pramas.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 73/95
+
+
+===== PAGE 74 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+In Figura 88 si riportano i livelli idrometrici (in m s.l.m.) osservati durante l’evento dall’idrometro posizionato
+nella traversa Flumendosa a Isca Rena (area del bacino idrografico sotteso pari a circa 1608 km2).
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 51.01 m s.l.m, poco sopra la soglia di sfioro
+della traversa (51 m s.l.m.). La soglia di allerta arancione S2, pari a 52.5 m s.l.m. (ossia 1.5 m di lama
+d’acqua sulla traversa, livello significativo per possibili criticità nel territorio a valle, con portata pari a circa
+550 m3/s), è stata superata. Il massimo livello pari a 52.63 m s.l.m. è stato raggiunto il giorno 20 alle ore
+11:15 circa.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (7 novembre 2007), il massimo livello
+idrometrico raggiunto è pari a 53.81 m s.l.m. (18 novembre 2013).
+Figura 88. Livelli idrometrici osservati alla stazione Flumendosa a Isca Rena.
+Per ottenere l’idrogramma di piena in termini di portata è stata utilizzata l’equazione della scala di efflusso
+da stramazzo (Figura 89).
+Figura 89. Idrogramma alla stazione idrometrica Flumendosa a Isca Rena.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 74/95
+
+
+===== PAGE 75 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+In Figura 90 si riportano i livelli idrometrici misurati alla stazione Flumendosa a p.te Brecca rispetto allo
+zero idrometrico (11.28 m s.l.m.). L’area del bacino idrografico sotteso alla stazione in argomento è pari a
+circa 1744 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa 0.92 m. Il massimo livello idrometrico, pari
+a 6.11 m, è stato raggiunto il 20 gennaio alle 07:45. La soglia di allerta rossa S3, pari a 3.6 m, è stata
+superata dal giorno 19 a partire dalle ore 17:00. Il livello idrometrico è rientrato al di sotto della soglia S3 a
+partire dalle ore 3:15 del 22 gennaio, circa 58 ore dopo. Il livello è poi sceso al di sotto della soglia S2
+(2.5 m) dalle 04:15 del 23 gennaio.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (15 dicembre 2020) il massimo livello
+idrometrico raggiunto era pari a 4.95 m (18 gennaio 2025), che in questa occasione è stato pertanto
+superato.
+Figura 90. Livelli idrometrici osservati alla stazione Flumendosa a p.te Brecca.
+Per ottenere l’idrogramma di piena in termini di portata è stata utilizzata la scala di deflusso pubblicata dal
+Dipartimento Geologico, Idrogeologico e Idrografico di ARPAS a Luglio del 2025 (Figura 91).
+L’equazione corrispondente è riportata di seguito:
+▪ ramo di magra-morbida: 0.5119𝑚 ≤ℎ<2.90𝑚 𝑄 =14.3794(ℎ−0.5119)2.2435
+▪ ramo di piena: 2.90𝑚 ≤ℎ≤5.145𝑚 𝑄 =881.2948(𝑒0.1026(ℎ−2.90)−1)+101.3677
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 75/95
+
+
+===== PAGE 76 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 91. Scala di deflusso della stazione idrometrica Flumendosa a p.te Brecca
+Il valore massimo del livello idrometrico estrapolabile dalla scala di deflusso è di circa 5.15 m
+(corrispondente a una portata di circa 330 m3/s). L’idrogramma delle portate osservate alla stazione
+idrometrica di Flumendosa a p.te Brecca è riportato in Figura 92. Tutti i valori di portata relativi al periodo
+compreso tra le ore 21:00 del 19 gennaio e le ore 10:00 del 21 gennaio non sono calcolabili, in quanto i
+livelli rilevati eccedono i limiti di validazione della scala di deflusso. Nella stessa figura sono riportati i risultati
+delle misure di portata in alveo effettuate dal Dipartimento Geologico, Idrogeologico e Idrografico di ARPAS
+in occasione dell’evento.
+Figura 92. Idrogramma alla stazione idrometrica Flumendosa a p.te Brecca.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 76/95
+
+
+===== PAGE 77 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+In Figura 93 si riportano i livelli idrometrici misurati alla stazione Flumini Uri a San Vito rispetto allo zero
+idrometrico (8.78 m s.l.m.). L’area del bacino idrografico sotteso alla stazione in argomento è pari a circa
+38 km2.
+Prima dell’inizio dell’evento il livello idrometrico era pari a circa -0.03 m. Il massimo livello idrometrico, pari
+a 0.57 m, è stato raggiunto il 20 gennaio alle 23:00. La soglia di allerta gialla S1 (0.52 m) è stata superata.
+Dall’inizio delle osservazioni in tempo reale di questa stazione (15 novembre 2005), il massimo livello
+idrometrico raggiunto è pari a 3.44 m (10 ottobre 2018).
+Figura 93. Livelli idrometrici osservati alla stazione Flumini Uri a San Vito.
+4.10.3. SOPRALLUOGO DEL 19, 20 E 21 GENNAIO 2026
+In data 19, 20 e 21 gennaio 2026 è stato eseguito un sopralluogo presso le sezioni idrometriche F10 Riu
+Stanali a Pramas, F34 Flumendosa a Ballao RF e F21 Flumendosa a p.te Brecca, con l’esecuzione di
+misure di portata di piena. Un report fotografico con la sintesi dei risultati delle misure ottenute è riportato
+di seguito, rispettivamente, in Figura 94, Figura 95 e Figura 96. Gli indicatori arancioni nelle seguenti figure
+fanno riferimento alla posizione delle stazioni idrometriche.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 77/95
+
+
+===== PAGE 78 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+F10 Riu Stanali a Pramas
+19/01/2026
+Ore 08:26
+h = 1.8 m Q = 23.91 m3/s
+Ore 09:39
+h = 1.88 m Q = 26.16 m3/s
+20/01/2026
+Ore 09:21
+h = 5.51 m Q = 491.01 m3/s
+Ore 12:55
+h = 5.12 m Q = 413.61 m3/s
+Ore 14:26
+h = 5.135 m Q = 425.74 m3/s
+21/01/2026
+Ore 09:02
+h = 4.02 m Q = 220.795 m3/s
+Ore 10:54
+h = 3.95 m Q = 205.70 m3/s
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 78/95
+
+
+===== PAGE 79 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 79/95
+
+
+===== PAGE 80 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 80/95
+
+
+===== PAGE 81 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 94. Rilievo fotografico eseguito in prossimità della sezione F10 Riu Stanali a Pramas il 19, 20
+e 21 gennaio 2026.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 81/95
+
+
+===== PAGE 82 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+F34 Flumendosa a Ballao
+RF
+19/01/2026
+Ore 10:36
+h = 1.57 m Q = 19.345 m3/s
+20/01/2026
+Ore 10:12
+h = 1.88 m Q = 38.858 m3/s
+21/01/2026
+Ore 09:45
+h = 1.26 m Q = 11.567 m3/s
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 82/95
+
+
+===== PAGE 83 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 83/95
+
+
+===== PAGE 84 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 95. Rilievo fotografico eseguito in prossimità della sezione F34 Flumendosa a Ballao RF il
+19, 20 e 21 gennaio 2026.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 84/95
+
+
+===== PAGE 85 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+F21 Flumendosa a p.te
+Brecca
+19/01/2026
+Ore 11:47
+h = 2.87 m Q = 88.97 m3/s
+Ore 13:12
+h = 2.95 m Q = 94.35 m3/s
+21/01/2026
+Ore 07:30
+h = 5.475 m Q = 454.33 m3/s
+Ore 11:58
+h = 4.93 m Q = 346.37 m3/s
+Ore 13:23
+h = 4.82 m Q = 318.97 m3/s
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 85/95
+
+
+===== PAGE 86 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 86/95
+
+
+===== PAGE 87 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 87/95
+
+
+===== PAGE 88 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 88/95
+
+
+===== PAGE 89 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 96. Rilievo fotografico eseguito in prossimità della sezione F21 Flumendosa a p.te Brecca il
+19, 20 e 21 gennaio 2026.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 89/95
+
+
+===== PAGE 90 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.10.4. CONFRONTO EVENTO 14-19 OTTOBRE 1951
+Tra tutti gli eventi storici di cui esistono le misure, l’evento meteorologico che investì la Sardegna tra il 14
+e il 19 ottobre 1951 fu in assoluto il più estremo, soprattutto come cumulati di precipitazione. In 96 ore, a
+Sicca d’Erba (Arzana) furono misurati 1528 mm.
+Di particolare interesse sono le altezze idrometriche misurate sulla costa orientale, anche in considerazione
+del fatto che i fiumi erano molto meno irregimentati di oggi e, dunque, rispondevano in maniera rapida e
+devastante alle precipitazioni intense.
+La Figura 97 mostra le altezze idrometriche giornaliere (osservazioni delle ore 12:00) registrate dalle
+stazioni del Flumendosa e del Rio Foddeddu. Bisogna evidenziare che in quell’anno nel Flumendosa era
+già in funzione la diga di Bau Muggeris (area del bacino idrografico sotteso pari a circa 180 km2), mentre
+non erano ancora state costruite quella del rio Mulargia a Monte Su Rei, del Flumendosa a Nuraghe Arrubiu
+e del Flumineddu a Capanna Silicheri. In particolare, il 17 ottobre 1951, da monte verso valle, l’evento ha
+prodotto i seguenti effetti: è stata stimata una portata pari a 893 m3/s alla sezione di Flumendosa a Gadoni
+(area del bacino sotteso pari a circa 425 km2), 1070 m3/s alla sezione di Flumendosa a Villanovatulo (area
+del bacino sotteso pari a circa 548 km2) e 1970 m3/s alla sezione di Flumendosa a Monte Scrocca (area
+del bacino idrografico sotteso pari a circa 1011 km2) (fonte Annali Idrologici Sardegna).
+Alla sezione idrometrica Flumendosa a Gadoni era stato raggiunto un colmo di circa 6 m mentre durante
+l’evento del 18-21 gennaio 2026 è stato raggiunto un colmo di 6.71 m. Chiaramente in più di 70 anni sia la
+sezione idrometrica che lo zero idrometrico sono cambiati quindi i due colmi non sono confrontabili.
+Figura 97. Idrogrammi dell’evento dell’Ottobre 1951 in termini di livelli idrometrici (in m rispetto
+allo zero idrometrico) registrati dalle stazioni Flumendosa a Monte Scrocca, Flumendosa a
+Villanovatulo, Flumendosa a Gadoni e Foddeddu a Corongiu.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 90/95
+]m[
+H
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+F
+F
+F
+F
+lu m
+lu m
+lu m
+o d d
+e
+e
+e
+e
+n
+n
+n
+d
+d
+d
+d
+d
+o
+o
+o
+u
+s a a
+s a a
+s a a
+a C
+M o n te S c ro c c
+V illa n o v a tu lo
+G a d o n i
+o ro n g iu (T o rto
+a
+lì)
+
+
+===== PAGE 91 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+4.11. IL BACINO DEL RIU PICOCCA
+Il Bacino idrografico del Picocca sotteso alla stazione Idrometrica di Monte Acuto (San Vito) ricopre un’area
+di 192.8 km2 (Figura 98 e Tabella 11).
+Figura 98. Delimitazione del bacino idrografico del Riu Picocca sotteso alla stazione idrometrica di
+Monte Acuto, pluviografi ARPAS, idrometro, e modello digitale delle elevazioni.
+Area 192.8 km2
+Lunghezza asta principale 38.4 km
+Quota media del bacino 486.2 m s.l.m.
+Quota massima 1064 m s.l.m.
+Tabella 11. Caratteristiche morfologiche e idrologiche del bacino idrografico in studio.
+4.11.1. ANALISI PLUVIOMETRICA
+I cumulati complessivi dell’evento rilevati tra il 18 e il 21 gennaio nelle stazioni in esame sono stati: Sinnai
+Campuomu 206.6 mm; Riu Picocca a Monte Acuto 161.6 mm; Castiadas Olia Speciosa 131.9 mm (Figura
+99).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 91/95
+
+
+===== PAGE 92 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Figura 99. Altezza di precipitazione cumulata misurata dalle stazioni della rete ARPAS interne al
+bacino.
+4.11.2. ANALISI IDROMETRICA
+In Figura 100 si riporta l’idrogramma dell’evento misurato alla stazione di Riu Picocca a Monte Acuto a
+San Vito (installata il 21 luglio 2017), in termini di livello idrometrico rispetto allo zero idrometrico (24.85 m
+s.l.m.).
+Figura 100. Livelli idrometrici osservati alla stazione di Riu Picocca a Monte Acuto e soglie
+idrometriche di allerta.
+Prima dell’inizio dell’evento il livello idrometrico era pari a 0.607 m. Il massimo livello idrometrico, pari a
+2.707 m, è stato raggiunto il 20 gennaio alle ore 22:45. Dall’inizio delle osservazioni in tempo reale di questa
+stazione, il massimo livello idrometrico registrato è 3.814 m il 10 ottobre 2018.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 92/95
+
+
+===== PAGE 93 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+5. CONCLUSIONI
+L’evento che ha interessato la Sardegna dal 18 al 21 gennaio 2026 è stato caratterizzato da precipitazioni
+persistenti a carattere prevalentemente stratiforme con locali rovesci e alcuni temporali che hanno insistito
+in particolare sul settore orientale e meridionale dell’isola. Le precipitazioni sono state accompagnate da
+intensa ventilazione orientale e da mareggiate che hanno avuto un impatto importante in particolare sui
+settori costieri meridionali.
+Dal punto di vista idrologico i fenomeni hanno interessato principalmente i bacini idrografici del Riu Cixerri,
+del Riu Murmurei, del Fiume Tirso, del Fiume Padrogiano, del Fiume Posada, del Fiume Cedrino, del Riu
+Pramera, del Torrente Quirra, del Fiume Flumendosa, e del Riu Picocca.
+Sono state osservate altezze di pioggia cumulata, calcolata nelle 96 ore tra le 00:00 del 18 e le 23:59 del
+21 gennaio, superiori a 200 mm in 27 stazioni; di queste, 11 hanno superato i 300 mm, 5 i 400 mm e 3 i
+500 mm complessivi, con il bacino del Flumendosa largamente interessato dalle piogge più abbondanti
+(Tabella 12).
+n. Stazione Precipitazione Bacino
+cumulata (mm)
+1 Genna Tuvara 557.8 Flumendosa
+2 Villagrande Strisaili 512.3 Flumendosa
+3 Gairo Taquisara ARST 511.0 Flumendosa
+4 Villagrande Bau Mandara 490.2 Flumendosa
+5 Urzulei Genna Silana 437.0 Cedrino
+6 Osini 396.0 Flumendosa
+7 Arzana Sicca d'Erba 380.7 Flumendosa
+8 Seui RU 368.8 Flumendosa
+9 Seui c.ra Arqueri 341.1 Flumendosa
+10 Urzulei RU 328.3 Pramaera
+11 Ussassai RU 327.1 Flumendosa
+12 Seui ARST 284.1 Flumendosa
+13 Perdasdefogu RU 273.3 Quirra
+14 Lodè a Sas Seddas 263.0 Posada
+15 Orgosolo Monte Novo 257.2 Cedrino
+16 Villasalto RU 254.0 Flumendosa
+17 Lula RF 246.2 Posada
+18 Lodè RU 244.9 Posada
+19 Dorgali Oddoene RU 230.5 Cedrino
+20 Orune RF 227.8 Cedrino
+21 Flumendosa a Isca Rena 227.8 Flumendosa
+22 Pranu Sanguini 214.6 Flumendosa
+23 Sadali RF 211.6 Flumendosa
+24 Tertenia RF 211.4 Quirra
+25 Sinnai Campuomu 206.6 Picocca
+26 Baunei RF 205.6 Pramaera
+27 Alà dei Sardi Sos Onorcolos 202.2 Posada
+Tabella 12. Sintesi delle stazioni pluviometriche analizzate che hanno riportato un'altezza di pioggia
+cumulata superiore a 200 mm durante l'evento.
+Il colmo dell’onda di piena è stato raggiunto tra le prime ore del 20 gennaio e le prime ore del 21 gennaio.
+Tale scenario trova giustificazione sia nell’evoluzione temporale dell’evento e nella sua distribuzione
+spaziale, sia nella specificità dei bacini idrografici e nell’effetto di laminazione svolto dalle dighe.
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 93/95
+
+
+===== PAGE 94 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Dal punto di vista idrometrico è stata superata la soglia di allerta arancione S2 nelle stazioni Riu Mannu a
+p.te Gallè, Riu Sologo a su Mangano, Riu Murmurei a Trav. S. Lucia, Riu Cixerri a Uta, Flumendosa a
+Ballao RF, Flumendosa a Gadoni, Riu Stanali a Pramas, Flumendosa a Isca Rena, mentre è stata superata
+la soglia di allerta rossa S3 nelle stazioni Fiume di Posada a Torpè, Cedrino a Bartara, Cedrino a Onifai,
+Tirso a Rifornitore Tirso, Riu Cixerri a Villamassargia, Flumendosa a p.te Brecca.
+In molte delle stazioni idrometriche analizzate è stato superato il massimo livello idrometrico registrato
+storicamente da quando sono in attività in telemisura.
+L’evento è stato monitorato intensivamente dal punto di vista idrometrico, attraverso l’esecuzione di n. 46
+misure di portata da parte del personale ARPAS, come sintetizzato nella tabella seguente (Tabella 13).
+Codice Livello Portata misurata
+n. Nome Stazione Idrometrica Data Orario
+stazione (m) (m3/s)
+1 F27 Riu Mannu a San Sperate 23/01/2026 07:42 1.34 10.727
+2 F22 Riu Cixerri a Uta 23/01/2026 10:05 1.28 18.069
+3 F06 Riu Murmurei a Trav. S. Lucia 23/01/2026 11:15 1.55 4.089
+4 F18 Riu Mannu a Villa San Pietro 23/01/2026 13:38 0.65 7.763
+5 F59 Riu Mannu di Ozieri a Fraigas 20/01/2026 13:11 2.28 72.47
+6 F47 Riu Mannu di Berchidda 20/01/2026 15:05 2.9 153.617
+7 F49 Riu Vignola a p.te Vignola 20/01/2026 11:07 1.91 24.377
+8 F83 Riu Carana a p.te SP137 20/01/2026 09:06 1.6 35.806
+9 F79 Riu di S. Giovanni Arzachena 21/01/2026 06:41 1.08 10.061
+10 F79 Riu di S. Giovanni Arzachena 20/01/2026 16:15 1.48 20.537
+11 F79 Riu di S. Giovanni Arzachena 20/01/2026 07:57 2.05 33.115
+12 F55 Riu Mannu a p.te Gallè 22/01/2026 08:31 1.48 41.275
+13 F55 Riu Mannu a p.te Gallè 21/01/2026 14:52 2.05 78.716
+14 F55 Riu Mannu a p.te Gallè 21/01/2026 10:05 2.33 113.004
+15 F00 Fiume di Posada a Torpè 22/01/2026 13:36 2.2 43.287
+16 F00 Fiume di Posada a Torpè 22/01/2026 07:29 3.1 105.319
+17 F00 Fiume di Posada a Torpè 21/01/2026 15:57 4.25 223.093
+18 F00 Fiume di Posada a Torpè 21/01/2026 11:03 4.62 274.87
+19 F77 Rio di Siniscola a zona ind. 22/01/2026 12:50 1.47 18.242
+20 F77 Rio di Siniscola a zona ind. 22/01/2026 06:42 1.62 21.622
+21 F77 Rio di Siniscola a zona ind. 21/01/2026 16:39 2.25 35.579
+22 F77 Rio di Siniscola a zona ind. 21/01/2026 12:00 2.49 39.393
+23 F77 Rio di Siniscola a zona ind. 21/01/2026 08:53 2.64 42.812
+24 F31 Cedrino a Onifai 22/01/2026 10:29 2.47 210.716
+25 F31 Cedrino a Onifai 21/01/2026 17:39 3.74 366.177
+26 F31 Cedrino a Onifai 21/01/2026 12:58 4.4 471.406
+27 F03 Riu Pramaera a Lotzorai 22/01/2025 14:45 1.615 18.979
+28 F03 Riu Pramaera a Lotzorai 22/01/2025 13:10 1.65 18.998
+29 F03 Riu Pramaera a Lotzorai 22/01/2025 10:56 1.7 20.683
+30 F03 Riu Pramaera a Lotzorai 22/01/2025 09:20 1.735 22.738
+31 F03 Riu Pramaera a Lotzorai 22/01/2025 08:33 1.75 24.478
+32 F34 Flumendosa a Ballao RF 21/01/2026 09:45 1.26 11.567
+33 F34 Flumendosa a Ballao RF 19/01/2026 10:36 1.57 19.345
+34 F34 Flumendosa a Ballao RF 20/01/2026 10:12 1.88 38.858
+35 F10 Riu Stanali a Pramas 19/01/2026 08:26 1.8 23.906
+36 F10 Riu Stanali a Pramas 19/01/2026 09:39 1.88 26.162
+37 F10 Riu Stanali a Pramas 21/01/2026 10:54 3.95 205.702
+38 F10 Riu Stanali a Pramas 21/01/2026 09:02 4.02 220.795
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 94/95
+
+
+===== PAGE 95 =====
+
+
+Analisi meteorologica e idrologica post-evento 18-21 gennaio 2026
+Codice Livello Portata misurata
+n. Nome Stazione Idrometrica Data Orario
+stazione (m) (m3/s)
+39 F10 Riu Stanali a Pramas 20/01/2026 12:55 5.12 413.614
+40 F10 Riu Stanali a Pramas 20/01/2026 14:26 5.135 425.738
+41 F10 Riu Stanali a Pramas 20/01/2026 09:21 5.51 491.01
+42 F21 Flumendosa a p.te Brecca 19/01/2026 11:47 2.87 88.973
+43 F21 Flumendosa a p.te Brecca 19/01/2026 13:12 2.95 94.353
+44 F21 Flumendosa a p.te Brecca 21/01/2026 13:23 4.82 318.968
+45 F21 Flumendosa a p.te Brecca 21/01/2026 11:58 4.93 346.372
+46 F21 Flumendosa a p.te Brecca 21/01/2026 07:30 5.475 454.627
+Tabella 13. Sintesi delle misure di portata effettuate in occasione dell’evento, ordinate secondo i
+criteri degli Annali idrologici, Parte II (per bacino, partendo dal Campidano e in verso orario).
+Agenzia Regionale per la Protezione dell’Ambiente della Sardegna - ARPAS 95/95

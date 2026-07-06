@@ -1,0 +1,19 @@
+lallyzoppi.github.io/
+│
+├── index.html              ← homepage (portfolio)
+├── css/
+│   └── style.css           ← stile globale
+│
+├── projects/
+│   ├── americas-cup-cagliari-2026/
+│   │   └── index.html
+│   │
+│   ├── project-2/
+│   │   └── index.html
+│   │
+│   └── project-3/
+│       └── index.html
+│
+└── assets/
+    └── images/
+

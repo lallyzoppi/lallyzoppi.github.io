@@ -1,0 +1,12 @@
+STRUTTURA FINALE
+repo/
+│
+├── index.html
+├── style.css
+│
+├── images/
+│   ├── gps.png
+│   ├── speed.png
+│   ├── wind.png
+│   ├── extra1.png
+│   ├── extra2.png
