@@ -66,24 +66,18 @@ margin-left:4%;
 
 @media(max-width:750px){
 
-.three.columns,
-.nine.columns {
-
-/* width:100%; */
-/* margin-left:0; */
 .three.columns {
     width:30%;
+    float:left;
 }
 
 .nine.columns {
     width:66%;
     margin-left:4%;
+    float:left;
 }
 
 }
-
-}
-
 
 
 h3 {
