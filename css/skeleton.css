@@ -69,9 +69,16 @@ margin-left:4%;
 .three.columns,
 .nine.columns {
 
-width:100%;
+/* width:100%; */
+/* margin-left:0; */
+.three.columns {
+    width:30%;
+}
 
-margin-left:0;
+.nine.columns {
+    width:66%;
+    margin-left:4%;
+}
 
 }
 
