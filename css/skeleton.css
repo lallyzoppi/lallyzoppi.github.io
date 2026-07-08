@@ -67,18 +67,27 @@ margin-left:4%;
 @media(max-width:750px){
 
 .three.columns {
-    width:30%;
+    width:25%;
     float:left;
 }
 
 .nine.columns {
-    width:66%;
-    margin-left:4%;
+    width:70%;
+    margin-left:5%;
     float:left;
 }
 
+/* riduce le immagini dentro PROJECTS */
+.media-thumb {
+    flex:0 0 35%;
 }
 
+.media-thumb img {
+    width:100%;
+    height:auto;
+}
+
+}
 
 h3 {
 
