@@ -8,10 +8,10 @@ lallyzoppi.github.io/
 │   ├── americas-cup-cagliari-2026/
 │   │   └── index.html
 │   │
-│   ├── project-2/
+│   ├── cyclone-harry-sardinia/
 │   │   └── index.html
 │   │
-│   └── project-3/
+│   └── Sardinia_Wildfire_ML/
 │       └── index.html
 │
 └── assets/
