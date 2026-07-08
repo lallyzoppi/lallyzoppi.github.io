@@ -66,20 +66,21 @@ margin-left:4%;
 
 @media(max-width:750px){
 
-.three.columns {
-    width:25%;
-    float:left;
-}
-
+.three.columns,
 .nine.columns {
-    width:70%;
-    margin-left:5%;
-    float:left;
+    width:100%;
+    margin-left:0;
+    float:none;
 }
 
-/* riduce le immagini dentro PROJECTS */
+
+/* dentro PROJECTS: figura sopra e testo sotto */
+.media {
+    flex-direction:column;
+}
+
 .media-thumb {
-    flex:0 0 35%;
+    width:100%;
 }
 
 .media-thumb img {
@@ -87,8 +88,12 @@ margin-left:4%;
     height:auto;
 }
 
+.media-body {
+    width:100%;
 }
 
+}
+ 
 h3 {
 
 font-family:"Boldonse",Arial;
