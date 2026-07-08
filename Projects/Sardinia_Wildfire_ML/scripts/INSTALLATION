@@ -1,0 +1,23 @@
+INSTALLATION
+============
+
+The project was developed and tested using a Conda environment named
+'windmap' (Python 3.12).
+
+1. Create the environment:
+
+    conda create -n windmap python=3.12
+
+2. Activate the environment:
+
+    conda activate windmap
+
+3. Install the required Python packages:
+
+    pip install -r requirements.txt
+
+Alternatively, the required packages can be installed individually
+using Conda or pip, depending on the user's preferred environment.
+
+Before running any script, make sure that the 'windmap' environment
+is activated.

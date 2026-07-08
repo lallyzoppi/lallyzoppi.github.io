@@ -1,0 +1,34 @@
+# Core data analysis
+numpy
+pandas
+scipy
+
+# Climate / ERA5 data
+xarray
+netCDF4
+cftime
+
+# Machine learning
+scikit-learn
+lightgbm
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Geospatial analysis and mapping
+geopandas
+shapely
+pyproj
+cartopy
+folium
+mapclassify
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
+
+# Utilities
+requests

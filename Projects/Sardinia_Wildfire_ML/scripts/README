@@ -1,0 +1,34 @@
+PROJECT WORKFLOW
+================
+
+##Preprocessing##
+The ERA5 data sets are dowloaed as zip data, the following codes could be used to download, extract and 
+process the data for for model training and operational forecasting.
+download_era5_sardegna_complete.py
+EXTRACTION.py
+ERA_Daily_GRID.py
+#####################################################
+anim_mean_wind_direction.py and windrose_animation_Sardinia.py
+These scripts generate animations showing the evolution of wind speed
+and direction over Sardinia, providing a visual analysis of temporal
+wind patterns.
+################################################
+01_train_fire_model_v5.py
+Trains the LightGBM wildfire risk model using historical meteorological data.
+The script performs data preprocessing, feature selection, model training,
+and saves the trained model for subsequent forecasting.
+
+02_Forecast_Fire_14D.py
+Loads the trained model and generates wildfire risk forecasts for the next
+14 days using meteorological forecast data.
+
+04_validation_report.py
+Evaluates the model performance by producing validation metrics, including
+the confusion matrix, ROC AUC, PR AUC, precision, recall, and the
+classification report.
+
+05_AI_Forecast_Analysis.py
+Generates graphical analyses of the model outputs, including probability
+distributions, correlation analysis, and risk visualizations to support
+interpretation of the predictions.
+

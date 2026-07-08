@@ -1,0 +1,47 @@
+## Origin and description of the data used for wildfire risk assessment
+
+
+For the evaluation of the meteorological conditions associated with wildfire risk, atmospheric data were downloaded from the Copernicus Climate Data Store (CDS) through the API service:
+
+https://cds.climate.copernicus.eu/
+https://cds.climate.copernicus.eu/api
+
+In particular, ERA5 data were used. ERA5 is the meteorological reanalysis product provided by the Copernicus Climate Change Service, containing information on the main atmospheric variables (for example temperature, humidity, wind, and precipitation).
+
+To download data from the Copernicus Climate Data Store (CDS) using the API service, it is necessary to have a valid CDS API key associated with a registered user account.
+
+The CDS API requires the creation and configuration of a user authentication file containing the credentials provided by the Copernicus Climate Data Store, including the personal API key required to access the datasets.
+
+After installing the CDS API Python package:
+
+pip install cdsapi
+
+the API can be used to connect to the Copernicus service and automatically download the selected datasets.
+
+The requested meteorological variables (e.g., ERA5 temperature, humidity, wind, and precipitation data) are retrieved directly from CDS and saved locally in NetCDF (.nc) format, a standard scientific data format widely used for storing multidimensional climate and environmental datasets.
+
+ERA5 meteorological data were used to characterize the environmental conditions that may favor wildfire development and propagation, providing information on the atmospheric and climatic conditions of the area of interest.
+
+## Satellite data on thermal anomalies
+
+To identify possible areas characterized by anomalous thermal activity, satellite data from the **NASA FIRMS (Fire Information for Resource Management System)** platform were also used. These data are based on the **MODIS (Moderate Resolution Imaging Spectroradiometer)** sensor, version **Collection 6.1 (C61)**.
+
+MODIS FIRMS data provide the so-called **thermal anomalies / fire hotspots**, namely satellite pixels where the observed temperature is significantly higher compared to the surrounding area.
+
+## Interpretation of thermal anomalies
+
+It is important to highlight that a **satellite thermal anomaly does not necessarily correspond to the presence of an actual wildfire**.
+
+A MODIS hotspot may be associated with an active fire, but it may also result from other heat sources or particular surface conditions, such as agricultural activities, controlled burns, strongly heated surfaces, or other environmental anomalies.
+
+Therefore, MODIS FIRMS data should be interpreted as **indicators of possible anomalous thermal activity** and not as an automatic confirmation of a wildfire.
+
+The wildfire risk assessment is therefore based on the integration of multiple sources of information:
+
+* ERA5 meteorological data (atmospheric conditions that may increase or reduce wildfire risk);
+* MODIS FIRMS satellite data (detection of thermal anomalies);
+
+These data are merged into the SARDINIA_FIRE_ML.csv dataset and used as input features for the machine learning models.
+
+The objective is to distinguish between environmental conditions that favor wildfire risk and the actual occurrence of fire events.
+
